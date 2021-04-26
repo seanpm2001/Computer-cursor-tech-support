@@ -9,7 +9,7 @@ Note: this guide is incomplete. This is a heavily modified version of the Linux 
 
 ## Basic troubleshooting
 
-If it is a one time thing, you can close programs with `alt` + `f4` and you can save your files with `CTRL` + `s` (to save playlists in VLC Media Player, the shortcut is `CTRL` + `Y`) sometimes, the issue may resolve on its own after a few programs are closed. If not keep closing until you get to the desktop and see if it responds. If not, try the tricks below, or reboot your system by pressing `ALT` + `F4` on the desktop, then press `TAB` to select the dropdown, and use the up and down arrow keys until you get to `restart and update` or `update and shutdown` (if you don't have your "daily" forced Windows 10 update ready yet, just look for `restart` or `shutdown`
+If it is a one time thing, you can close programs with `alt` + `f4` and you can save your files with `CTRL` + `s` (to save playlists in VLC Media Player, the shortcut is `CTRL` + `Y`) sometimes, the issue may resolve on its own after a few programs are closed. If not keep closing until you get to the desktop and see if it responds. If not, try the tricks below, or reboot your system by pressing `ALT` + `F4` on the desktop, then press `TAB` to select the dropdown, and use the up and down arrow keys until you get to `restart` or `shutdown` (unless there is an update available, then you might want or might not want to do it)
 
 **You should NOT power down your system by holding down the power button** unless the keyboard isn't responding as well, this should be a last resort) pressing the power button will put the computer into sleep mode (with default settings) so this won't work.
 
@@ -70,10 +70,24 @@ You will likely be using the `tab` and `enter` keys very frequently (tab switche
 
 <!-- File info
 
-File version: `1 (Sunday, April 25th 2021 at 5:58 pm)`
+File version: `2 (Sunday, April 25th 2021 at 9:01 pm)`
 
 File type: `Markdown document (*.md)`
 
-Line count (including blank lines and compiler line): `80`
+Line count (including blank lines and compiler line): `94`
+
+Changes in version 1:
+
+Started the file
+
+Other info
+
+Changes in version 2:
+
+Updated the file info
+
+Updated the file history
+
+Removed and modified a joke about forced updates that was done in bad taste
 
 !-->
