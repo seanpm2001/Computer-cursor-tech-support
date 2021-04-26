@@ -7,4 +7,6 @@ I made a joke in the article that I regret but also stand by about Windows 10, j
 
 This joke may be removed in future releases, but it is up for debate. It will still be kept in version 1, and version 1 translations, I can't modify that. Same goes with the document you are reading right now, it won't be removed.
 
+Update 1: I have quickly removed the joke in the Windows 10 folder, but it is still present in the `README.md` file at root, along with all the version 1 translations of the `README.md` file at root.
+
 ***
