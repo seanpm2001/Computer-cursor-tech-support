@@ -30,9 +30,9 @@ _🌐 Listo de lingvoj_
 
 Tradukoj en aliaj lingvoj krom la angla estas aŭtomate tradukitaj kaj ankoraŭ ne estas ĝustaj. Ankoraŭ neniuj eraroj estis riparitaj ĝis la 25a de aprilo 2021. Bonvolu raporti tradukajn erarojn [ĉi tie] (https://github.com/seanpm2001/Computer-cursor-tech-support/issues/) certigu rezervi vian korektadon per fontoj kaj gvidu min, ĉar mi ne bone scias aliajn lingvojn krom la angla (mi planas akiri tradukiston eventuale) bonvolu citi [vikivortaron] (https://eo.wiktionary.org) kaj aliajn fontojn en via raporto. Malsukceso fari tion rezultigos malakcepton de la korekto publikigita.
 
-Noto: pro limigoj kun la interpreto de GitHub pri markdown (kaj preskaŭ ĉiu alia interreta interpreto de markdown) alklakante ĉi tiujn ligojn redirektos vin al aparta dosiero sur aparta paĝo kiu ne estas mia GitHub-profilpaĝo. Vi estos redirektita al la [seanpm2001 / seanpm2001-deponejo] (https://github.com/seanpm2001/seanpm2001), kie la README estas gastigita.
+Noto: pro limigoj kun la interpreto de GitHub pri markdown (kaj preskaŭ ĉiu alia interreta interpreto de markdown) alklakante ĉi tiujn ligojn redirektos vin al aparta dosiero sur aparta paĝo, kiu ne estas mia GitHub-profilpaĝo. Vi estos redirektita al la [seanpm2001 / seanpm2001-deponejo] (https://github.com/seanpm2001/seanpm2001), kie la README estas gastigita.
 
-Tradukoj estas faritaj per Google Translate pro limigita aŭ neniu subteno por la lingvoj, kiujn mi bezonas en aliaj tradukaj servoj kiel DeepL kaj Bing Translate. Mi laboras por trovi alternativon. Ial, la formatado (ligoj, dividiloj, grasaj, kursivaj, ktp) estas fuŝita en diversaj tradukoj. Estas tede ripari, kaj mi ne scias kiel solvi ĉi tiujn problemojn en lingvoj kun nelatinaj signoj, kaj dekstre al maldekstraj lingvoj (kiel la araba) kroma helpo necesas por solvi ĉi tiujn problemojn.
+Tradukoj fariĝas per Google Translate pro limigita aŭ neniu subteno por la lingvoj, kiujn mi bezonas en aliaj tradukaj servoj kiel DeepL kaj Bing Translate. Mi laboras por trovi alternativon. Ial la formatado (ligoj, dividiloj, grasa, kursiva ktp) estas fuŝita en diversaj tradukoj. Estas tede ripari, kaj mi ne scias kiel solvi ĉi tiujn problemojn en lingvoj kun nelatinaj signoj, kaj dekstre al maldekstraj lingvoj (kiel la araba) kroma helpo necesas por solvi ĉi tiujn problemojn.
 
 Pro prizorgaj problemoj, multaj tradukoj malaktualas kaj uzas malnoviĝintan version de ĉi tiu artikoldosiero 'README'. Tradukisto bezonas. Ankaŭ ekde la 25a de aprilo 2021 mi bezonos iom da tempo por funkciigi ĉiujn novajn ligojn.
 
@@ -187,9 +187,9 @@ Vi probable uzos la klavojn `tab` kaj` eniri` tre ofte (langeto ŝanĝas al la s
 
 ***
 
-# Solvante viajn problemojn de musa kursoro de Windows 10
+## Solvante viajn problemojn de musa kursoro de Windows 10
 
-[Vidu helpon de Vindozo 10] (/ Vindozo / Vindozo 10 /)
+[Vidu helpon de Vindozo 10] (/ Vindozo / Vindozo 10 /) - Ligo estas nuntempe rompita
 
 Ĉi tiu dosierujo enhavas dokumentojn kaj skriptojn por provi helpi vin ripari vian blokitan / misfunkcian musan kursoron (musmontrilo aŭ simple kursoro) en Vindozo 10
 
@@ -197,7 +197,7 @@ Noto: ĉi tiu gvidilo estas nekompleta. Ĉi tio estas tre modifita versio de la 
 
 ## Baza problemo
 
-Se ĝi estas unufoja afero, vi povas fermi programojn per `alt` +` f4` kaj vi povas konservi viajn dosierojn per `CTRL` +` s` (por konservi ludlistojn en VLC Media Player, la ŝparvojo estas `CTRL` + "Y") foje, la problemo povas solvi sin mem post kiam kelkaj programoj estas fermitaj. Se ne, daŭre fermu ĝis vi atingos la labortablon kaj vidos, ĉu ĝi respondas. Se ne, provu la subajn lertaĵojn, aŭ restartigu vian sistemon premante "ALT" + "F4" sur la labortablo, tiam premu "TAB" por elekti la falmenon, kaj uzu la supren kaj malsupren sagajn klavojn ĝis vi rekomencos kaj ĝisdatigo` aŭ `ĝisdatigo kaj ĉesigo` (se vi ankoraŭ ne havas vian" ĉiutagan "devigitan ĝisdatigon de Windows 10 preta, simple serĉu 'restartigi' aŭ 'ĉesigi`
+Se ĝi estas unufoja afero, vi povas fermi programojn per `alt` +` f4` kaj vi povas konservi viajn dosierojn per `CTRL` +` s` (por konservi ludlistojn en VLC Media Player, la ŝparvojo estas `CTRL` + "Y") foje, la problemo povas solvi sin mem post kiam kelkaj programoj estas fermitaj. Se ne, daŭre fermu ĝis vi atingos la labortablon kaj vidos, ĉu ĝi respondas. Se ne, provu la subajn lertaĵojn, aŭ restartigu vian sistemon premante "ALT" + "F4" sur la labortablo, tiam premu "TAB" por elekti la falmenon, kaj uzu la supren kaj malsupren sagajn klavojn ĝis vi "rekomencos" aŭ "ĉesigo" (krom se disponeblas ĝisdatigo, tiam vi eble volas aŭ eble ne volas fari ĝin)
 
 ** Vi NE devas malŝalti vian sistemon tenante premitan la butonon de ŝaltilo ** krom se la klavaro ankaŭ ne respondas, ĉi tio estu lasta rimedo) premante la butonon de ŝaltilo metos la komputilon en dorman reĝimon (kun defaŭltaj agordoj) do ĉi tio ne funkcios.
 
@@ -242,7 +242,7 @@ Fonto: [neniu] (https://www.example.com)
 
 ## Se ĉio alia malsukcesos
 
-Se ĉio alia malsukcesos, eble rekomencos. Se tio ne funkcias, aŭ vi ne volas / ne povas restartigi, ĉiam memoru, ke vi povas uzi vian komputilon sen muso. Se vi havas tuŝekranon, vi povas uzi ĝin por anstataŭigi la muson, sed vi probable provu lerni kiel uzi viankomputilo sen via muso kaj sen tuŝa enigo.
+Se ĉio alia malsukcesos, eble rekomencos. Se tio ne funkcias, aŭ vi ne volas / ne povas restartigi, ĉiam memoru, ke vi povas uzi vian komputilon sen muso. Se vi havas tuŝekranon, vi povas uzi ĝin por anstataŭigi la muson, sed vi probable provu lerni kiel uzi vian komputilon pereligu vian muson kaj sen tuŝa enigo.
 
 Por malfermi fina stacion, premu `[::] Vindozo` +` R`
 
@@ -253,6 +253,32 @@ Por sendi informojn en TTT-legilo, tajpu `ctrl` +` eniri`
 Por fermi fenestron, premu `alt` +` f4`
 
 Vi probable uzos la klavojn `tab` kaj` eniri` tre ofte (langeto ŝanĝas al la sekva disponebla butono / elemento)
+
+***
+
+<! - Dosieraj informoj por WIN10CUR_HELP_README.md
+
+Dosiera versio: `2 (dimanĉo, la 25-an de aprilo 2021 je la 21:01)`
+
+Dosiera tipo: `Markdown-dokumento (* .md)`
+
+Linio-kalkulo (inkluzive malplenajn liniojn kaj kompililan linion): `94`
+
+Ŝanĝoj en versio 1:
+
+Komencis la dosieron
+
+Aliaj informoj
+
+Ŝanĝoj en versio 2:
+
+Ĝisdatigis la dosieran informon
+
+Ĝisdatigis la dosieran historion
+
+Forigis kaj modifis ŝercon pri malvolaj ĝisdatigoj, kiu estis farita kun malbona gusto
+
+! ->
 
 ***
 
@@ -322,6 +348,18 @@ Vi probable uzos la klavojn `tab` kaj` eniri` tre ofte (langeto ŝanĝas al la s
 
 ***
 
+# Ekstremaj solvoj por kursoraj problemoj
+
+Ĉu ĉio alia malsukcesis? Ĉu vi nur volas provi ekstreman solvon? Jen kelkaj tro ekstremaj por mencii en la ĉefa listo:
+
+* Neniam lasu vian baterion fali sub `x` procento (20-31% rekomendita kiel` x`)
+
+* Neniam lasu vian baterion atingi `y`-procenton (91-100% rekomendinda kiel` y`)
+
+Tiuj estas ĉiuj ekstremaj solvoj, kiuj funkciis por mi. [Rekomendu pli ĉi tie] (https://github.com/seanpm2001/Computer-cursor-tech-support/Discussions)
+
+***
+
 ## Vikio
 
 [Klaku / frapetu ĉi tie por vidi ĉi tiun projekton Vikio] (https://github.com/seanpm2001/Computer-cursor-tech-support/wiki)
@@ -338,7 +376,7 @@ Vi povas sponsori ĉi tiun projekton se vi volas, sed bonvolu specifi al kio vi 
 
 Vi povas vidi aliajn sponsorajn informojn [ĉi tie] (https://github.com/seanpm2001/Sponsor-info/)
 
-Provu ĝin! La butono de sponsoro estas tuj apud la butono de horloĝo / malrigardo.
+Provu ĝin! La butono de la sponsoro estas tuj apud la butono de horloĝo / malrigardo.
 
 ***
 
@@ -362,7 +400,7 @@ Mi uzas la mallongigon "Administrado de Ciferecaj Limigoj" anstataŭ la pli kona
 
 Ĉi tiu sekcio estas uzata por konsciigi la problemojn kun DRM, kaj ankaŭ por protesti kontraŭ ĝi. DRM estas misa pro projektado kaj estas grava minaco por ĉiuj komputilaj uzantoj kaj libereco de programaro.
 
-Bildo-kredito: [defectivebydesign.org/drm-free/...)(https://www.defectivebydesign.org/drm-free/kiel-uzi-etikedon)
+Bildo kredito: [defectivebydesign.org/drm-free/...)(https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
 ***
 
@@ -370,7 +408,7 @@ Bildo-kredito: [defectivebydesign.org/drm-free/...)(https://www.defectivebydesig
 
 Nuntempe mi estas la sola kontribuanto. Kontribui estas permesita, se vi sekvas la regulojn de la dosiero [CONTRIBUTING.md] (CONTRIBUTING.md).
 
-> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 27 komisioj (Ekde dimanĉo la 25-an de aprilo 2021 je la 18:17)
+> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 97 komisioj (Ekde mardo la 27an de aprilo 2021 je la 16:19)
 
 > * 2. Neniuj aliaj kontribuantoj.
 
@@ -462,9 +500,9 @@ Kontribui estas permesita por ĉi tiu projekto, kondiĉe ke vi sekvas la reguloj
 
 Dosiera tipo: `Markdown (* .md)`
 
-Dosiera versio: `1 (dimanĉo, la 25an de aprilo 2021 je la 18:17)`
+Dosiera versio: `2 (mardo, la 27an de aprilo 2021 je la 16: 19h)`
 
-Linia kalkulo: `0,543`
+Linia kalkulo: `0,603`
 
 ***
 
@@ -522,13 +560,35 @@ Versio 1 (dimanĉo, la 25-an de aprilo 2021 je la 18:17)
 
 > * Neniuj aliaj ŝanĝoj en versio 1
 
-Versio 2 (Baldaŭ)
+Versio 2 (marde, la 27an de aprilo 2021 je la 16:19)
+
+> Ŝanĝoj:
+
+> * Ĝisdatigis la sekcion Vindozo, forigis neprofesian ŝercon
+
+> * Aldonis la sekcion pri ekstremaj solvoj
+
+> * Ĝisdatigis la sekcion pri dosieraj informoj
+
+> * Ĝisdatigis la sekcion pri dosierhistorio
+
+> * Neniuj aliaj ŝanĝoj en versio 2
+
+Versio 3 (Baldaŭ)
 
 > Ŝanĝoj:
 
 > * Baldaŭ
 
-> * Neniuj aliaj ŝanĝoj en versio 2
+> * Neniuj aliaj ŝanĝoj en versio 3
+
+Versio 4 (Baldaŭ)
+
+> Ŝanĝoj:
+
+> * Baldaŭ
+
+> * Neniuj aliaj ŝanĝoj en versio 4
 
 ***
 
