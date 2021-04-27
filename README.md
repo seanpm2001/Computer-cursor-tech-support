@@ -188,9 +188,9 @@ You will likely be using the `tab` and `enter` keys very frequently (tab switche
 
 ***
 
-# Solving your Windows 10 mouse cursor problems
+## Solving your Windows 10 mouse cursor problems
 
-[See Windows 10 help](/Windows/Windows 10/)
+[See Windows 10 help](/Windows/Windows 10/) - Link is currently broken
 
 This directory contains documentation and scripts to try and help you fix your frozen/malfunctioning mouse cursor (mouse pointer, or just cursor) on Windows 10
 
@@ -198,7 +198,7 @@ Note: this guide is incomplete. This is a heavily modified version of the Linux 
 
 ## Basic troubleshooting
 
-If it is a one time thing, you can close programs with `alt` + `f4` and you can save your files with `CTRL` + `s` (to save playlists in VLC Media Player, the shortcut is `CTRL` + `Y`) sometimes, the issue may resolve on its own after a few programs are closed. If not keep closing until you get to the desktop and see if it responds. If not, try the tricks below, or reboot your system by pressing `ALT` + `F4` on the desktop, then press `TAB` to select the dropdown, and use the up and down arrow keys until you get to `restart and update` or `update and shutdown` (if you don't have your "daily" forced Windows 10 update ready yet, just look for `restart` or `shutdown`
+If it is a one time thing, you can close programs with `alt` + `f4` and you can save your files with `CTRL` + `s` (to save playlists in VLC Media Player, the shortcut is `CTRL` + `Y`) sometimes, the issue may resolve on its own after a few programs are closed. If not keep closing until you get to the desktop and see if it responds. If not, try the tricks below, or reboot your system by pressing `ALT` + `F4` on the desktop, then press `TAB` to select the dropdown, and use the up and down arrow keys until you get to `restart` or `shutdown` (unless there is an update available, then you might want or might not want to do it)
 
 **You should NOT power down your system by holding down the power button** unless the keyboard isn't responding as well, this should be a last resort) pressing the power button will put the computer into sleep mode (with default settings) so this won't work.
 
@@ -254,6 +254,32 @@ To submit information in a web browser, type `ctrl` + `enter`
 To close a window, press `alt` + `f4`
 
 You will likely be using the `tab` and `enter` keys very frequently (tab switches to the next available button/element)
+
+***
+
+<!-- File info for WIN10CUR_HELP_README.md
+
+File version: `2 (Sunday, April 25th 2021 at 9:01 pm)`
+
+File type: `Markdown document (*.md)`
+
+Line count (including blank lines and compiler line): `94`
+
+Changes in version 1:
+
+Started the file
+
+Other info
+
+Changes in version 2:
+
+Updated the file info
+
+Updated the file history
+
+Removed and modified a joke about forced updates that was done in bad taste
+
+!-->
 
 ***
 
@@ -323,6 +349,18 @@ You will likely be using the `tab` and `enter` keys very frequently (tab switche
 
 ***
 
+# Extreme solutions for cursor problems
+
+Did everything else fail? Just want to try an extreme solution? Here are some that were too extreme to mention on the main list:
+
+* Never let your battery drop below `x` percent (20-31% recommended as `x`)
+
+* Never let your battery reach `y` percent (91-100% recommended as `y`)
+
+Those are all the extreme solutions that have worked for me. [Recommend more here](https://github.com/seanpm2001/Computer-cursor-tech-support/Discussions)
+
+***
+
 ## Wiki
 
 [Click/tap here to view this projects Wiki](https://github.com/seanpm2001/Computer-cursor-tech-support/wiki)
@@ -371,7 +409,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 27 commits (As of Sunday, April 25th 2021 at 6:17 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 97 commits (As of Tuesday, April 27th 2021 at 4:19 pm)
 
 > * 2. No other contributers.
 
@@ -463,9 +501,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Sunday, April 25th 2021 at 6:17 pm)`
+File version: `2 (Tuesday, April 27th 2021 at 4:19 pm)`
 
-Line count: `0,543`
+Line count: `0,603`
 
 ***
 
@@ -523,13 +561,35 @@ Version 1 (Sunday, April 25th 2021 at 6:17 pm)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Tuesday, April 27th 2021 at 4:19 pm)
+
+> Changes:
+
+> * Updated the Windows section, removed an unprofessional joke
+
+> * Added the extreme solutions section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
