@@ -187,9 +187,9 @@ Es probable que utilice las teclas `tab` e` enter` con mucha frecuencia (la tabu
 
 ***
 
-# Resolviendo los problemas del cursor del mouse de Windows 10
+## Resolviendo los problemas del cursor del mouse de Windows 10
 
-[Consulte la ayuda de Windows 10] (/ Windows / Windows 10 /)
+[Consulte la ayuda de Windows 10] (/ Windows / Windows 10 /) - El enlace está roto actualmente
 
 Este directorio contiene documentación y scripts para intentar ayudarlo a reparar el cursor del mouse congelado / que funciona mal (puntero del mouse, o simplemente cursor) en Windows 10
 
@@ -197,7 +197,7 @@ Nota: esta guía está incompleta. Esta es una versión muy modificada del artí
 
 ## Solución de problemas básicos
 
-Si es una cosa de una sola vez, puede cerrar programas con `alt` +` f4` y puede guardar sus archivos con `CTRL` +` s` (para guardar listas de reproducción en VLC Media Player, el acceso directo es `CTRL` + `Y`) a veces, el problema puede resolverse por sí solo después de cerrar algunos programas. Si no, siga cerrando hasta que llegue al escritorio y vea si responde. De lo contrario, pruebe los trucos a continuación o reinicie su sistema presionando `ALT` +` F4` en el escritorio, luego presione `TAB` para seleccionar el menú desplegable, y use las teclas de flecha hacia arriba y hacia abajo hasta que llegue a` reiniciar y update` o `update and shutdown` (si aún no tienes lista tu actualización forzada de Windows 10" diaria ", solo busca` reiniciar` o `apagar`
+Si es una cosa de una sola vez, puede cerrar programas con `alt` +` f4` y puede guardar sus archivos con `CTRL` +` s` (para guardar listas de reproducción en VLC Media Player, el acceso directo es `CTRL` + `Y`) a veces, el problema puede resolverse por sí solo después de cerrar algunos programas. Si no, siga cerrando hasta que llegue al escritorio y vea si responde. Si no es así, pruebe los trucos a continuación, o reinicie su sistema presionando `ALT` +` F4` en el escritorio, luego presione `TAB` para seleccionar el menú desplegable, y use las teclas de flecha hacia arriba y hacia abajo hasta que llegue a` reiniciar` o `shutdown` (a menos que haya una actualización disponible, es posible que desee o no desee hacerlo)
 
 ** NO debe apagar su sistema manteniendo presionado el botón de encendido ** a menos que el teclado no responda también, este debería ser un último recurso) presionar el botón de encendido pondrá la computadora en modo de suspensión (con la configuración predeterminada) entonces esto no funcionará.
 
@@ -242,7 +242,7 @@ Fuente: [ninguna] (https://www.example.com)
 
 ## Si todo lo demás falla
 
-Si todo lo demás falla, es posible que sea necesario reiniciar. Si eso no funciona, o no desea / no puede reiniciar, recuerde siempre que puede usar su computadora sin un mouse. Si tiene una pantalla táctil, puede usarla para reemplazar el mouse, pero probablemente debería intentar aprender a usar sucomputadora sin su mouse y sin entrada táctil.
+Si todo lo demás falla, es posible que sea necesario reiniciar. Si eso no funciona, o no desea / no puede reiniciar, recuerde siempre que puede usar su computadora sin un mouse. Si tiene una pantalla táctil, puede usarla para reemplazar el mouse, pero probablemente debería intentar aprender a usar su computadora concon el mouse y sin entrada táctil.
 
 Para abrir una terminal, presione `[::] Windows` +` R`
 
@@ -253,6 +253,32 @@ Para enviar información en un navegador web, escriba `ctrl` +` enter`
 Para cerrar una ventana, presione `alt` +` f4`
 
 Es probable que utilice las teclas `tab` e` enter` con mucha frecuencia (la tabulación cambia al siguiente botón / elemento disponible)
+
+***
+
+<! - Información de archivo para WIN10CUR_HELP_README.md
+
+Versión del archivo: `2 (domingo 25 de abril de 2021 a las 9:01 pm)`
+
+Tipo de archivo: `Documento de Markdown (* .md)`
+
+Recuento de líneas (incluidas las líneas en blanco y la línea del compilador): `94`
+
+Cambios en la versión 1:
+
+Comenzó el archivo
+
+Otra información
+
+Cambios en la versión 2:
+
+Se actualizó la información del archivo.
+
+Actualizó el historial del archivo
+
+Se eliminó y modificó un chiste sobre actualizaciones forzadas que se hizo de mal gusto.
+
+! ->
 
 ***
 
@@ -322,6 +348,18 @@ Es probable que utilice las teclas `tab` e` enter` con mucha frecuencia (la tabu
 
 ***
 
+# Soluciones extremas para problemas de cursor
+
+¿Todo lo demás falló? ¿Solo quieres probar una solución extrema? Aquí hay algunos que fueron demasiado extremos para mencionarlos en la lista principal:
+
+* Nunca deje que su batería caiga por debajo del porcentaje de `x` (se recomienda 20-31% como` x`)
+
+* Nunca permita que su batería alcance el porcentaje de "y" (91-100% recomendado como "y")
+
+Esas son todas las soluciones extremas que me han funcionado. [Recomiende más aquí] (https://github.com/seanpm2001/Computer-cursor-tech-support/Discussions)
+
+***
+
 ## Wiki
 
 [Haga clic / toque aquí para ver la Wiki de este proyecto] (https://github.com/seanpm2001/Computer-cursor-tech-support/wiki)
@@ -358,11 +396,11 @@ Todos mis trabajos están libres de algunas restricciones. DRM (** D ** igital *
 
 Esta pegatina cuenta con el apoyo de la Free Software Foundation. Nunca pretendo incluir DRM en mis trabajos.
 
-Estoy usando la abreviatura "Administración de restricciones digitales" en lugar de la más conocida "Administración de derechos digitales", ya que la forma común de abordarlo es falsa, no hay derechos con DRM. La ortografía "Digital Restrictions Management" es más precisa y es compatible con [Richard M. Stallman (RMS)] (https://en.wikipedia.org/wiki/Richard_Stallman) y la [Free Software Foundation (FSF)] ( https://en.wikipedia.org/wiki/Free_Software_Foundation)
+Estoy usando la abreviatura "Gestión de restricciones digitales" en lugar de la más conocida "Gestión de derechos digitales", ya que la forma común de abordarlo es falsa, no hay derechos con DRM. La ortografía "Digital Restrictions Management" es más precisa y es compatible con [Richard M. Stallman (RMS)] (https://en.wikipedia.org/wiki/Richard_Stallman) y la [Free Software Foundation (FSF)] ( https://en.wikipedia.org/wiki/Free_Software_Foundation)
 
 Esta sección se utiliza para crear conciencia sobre los problemas con la DRM y también para protestar. DRM tiene un diseño defectuoso y es una gran amenaza para todos los usuarios de computadoras y la libertad de software.
 
-Crédito de la imagen: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/etiqueta de uso)
+Crédito de la imagen: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
 ***
 
@@ -370,7 +408,7 @@ Crédito de la imagen: [defectivebydesign.org/drm-free/...](https://www.defectiv
 
 Actualmente, soy el único contribuyente. Se permite contribuir, siempre que siga las reglas del archivo [CONTRIBUTING.md] (CONTRIBUTING.md).
 
-> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 27 confirmaciones (a partir del domingo 25 de abril de 2021 a las 6:17 p.m.)
+> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 97 confirmaciones (a partir del martes 27 de abril de 2021 a las 4:19 pm)
 
 > * 2. Ningún otro contribuyente.
 
@@ -462,9 +500,9 @@ Se permite contribuir para este proyecto, siempre y cuando siga las reglas del a
 
 Tipo de archivo: `Markdown (* .md)`
 
-Versión del archivo: `1 (domingo 25 de abril de 2021 a las 6:17 pm)`
+Versión del archivo: `2 (martes 27 de abril de 2021 a las 4:19 pm)`
 
-Recuento de líneas: `0,543`
+Recuento de líneas: "0,603"
 
 ***
 
@@ -522,13 +560,35 @@ Versión 1 (domingo 25 de abril de 2021 a las 6:17 pm)
 
 > * No hay otros cambios en la versión 1
 
-Versión 2 (próximamente)
+Versión 2 (martes 27 de abril de 2021 a las 4:19 pm)
+
+> Cambios:
+
+> * Se actualizó la sección de Windows, se eliminó una broma poco profesional
+
+> * Añadida la sección de soluciones extremas
+
+> * Se actualizó la sección de información del archivo
+
+> * Se actualizó la sección de historial de archivos
+
+> * No hay otros cambios en la versión 2
+
+Versión 3 (próximamente)
 
 > Cambios:
 
 > * Próximamente
 
-> * No hay otros cambios en la versión 2
+> * No hay otros cambios en la versión 3
+
+Versión 4 (próximamente)
+
+> Cambios:
+
+> * Próximamente
+
+> * No hay otros cambios en la versión 4
 
 ***
 
