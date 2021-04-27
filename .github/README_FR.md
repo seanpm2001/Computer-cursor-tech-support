@@ -18,7 +18,7 @@
 
 _Lisez cet article dans une autre langue: _
 
-** La langue actuelle est: ** `Anglais (États-Unis)` _ (les traductions devront peut-être être corrigées pour que l'anglais remplace la langue correcte)
+** La langue actuelle est: ** `Anglais (États-Unis)` _ (les traductions devront peut-être être corrigées pour corriger l'anglais en remplaçant la langue correcte) _
 
 _🌐 Liste des langues_
 
@@ -173,7 +173,7 @@ J'ai obtenu ces exemples de [Unix stackexchange] (https://unix.stackexchange.com
 
 ## Si tout le reste échoue
 
-Si tout le reste échoue, un redémarrage peut être nécessaire. Si cela ne fonctionne pas ou si vous ne voulez pas / ne pouvez pas redémarrer, n'oubliez pas que vous pouvez utiliser votre ordinateur sans souris. Si vous avez un écran tactile, vous pouvez l'utiliser pour remplacer la souris, mais vous devriez probablement essayer d'apprendre à utiliser votre ordinateur sans votre souris et sans saisie tactile.
+Si tout le reste échoue, un redémarrage peut être nécessaire. Si cela ne fonctionne pas, ou si vous ne voulez pas / ne pouvez pas redémarrer, n'oubliez pas que vous pouvez utiliser votre ordinateur sans souris. Si vous avez un écran tactile, vous pouvez l'utiliser pour remplacer la souris, mais vous devriez probablement essayer d'apprendre à utiliser votre ordinateur sans votre souris et sans saisie tactile.
 
 Pour ouvrir un terminal, tapez `ctrl` +` alt` + `tab`
 
@@ -187,9 +187,9 @@ Vous utiliserez probablement les touches `tab` et` enter` très fréquemment (l'
 
 ***
 
-# Résolution de vos problèmes de curseur de souris Windows 10
+## Résolution de vos problèmes de curseur de souris Windows 10
 
-[Voir l'aide de Windows 10] (/ Windows / Windows 10 /)
+[Voir l'aide de Windows 10] (/ Windows / Windows 10 /) - Le lien est actuellement rompu
 
 Ce répertoire contient de la documentation et des scripts pour essayer de vous aider à corriger le curseur de votre souris gelé / défectueux (pointeur de souris ou simplement curseur) sous Windows 10
 
@@ -197,7 +197,7 @@ Remarque: ce guide est incomplet. Ceci est une version fortement modifiée de l'
 
 ## Dépannage de base
 
-S'il s'agit d'une chose ponctuelle, vous pouvez fermer les programmes avec `alt` +` f4` et vous pouvez enregistrer vos fichiers avec `CTRL` +` s` (pour enregistrer les listes de lecture dans VLC Media Player, le raccourci est `CTRL` + `Y`) parfois, le problème peut se résoudre tout seul après la fermeture de quelques programmes. Si ce n'est pas le cas, fermez jusqu'à ce que vous arriviez au bureau et voyez s'il répond. Sinon, essayez les astuces ci-dessous, ou redémarrez votre système en appuyant sur `ALT` +` F4` sur le bureau, puis appuyez sur `TAB` pour sélectionner la liste déroulante, et utilisez les touches fléchées haut et bas jusqu'à ce que vous arriviez à` redémarrer et update` ou `update and shutdown` (si votre mise à jour forcée" quotidienne "de Windows 10 n'est pas encore prête, recherchez simplement" redémarrer "ou" arrêter "
+S'il s'agit d'une chose ponctuelle, vous pouvez fermer les programmes avec `alt` +` f4` et vous pouvez enregistrer vos fichiers avec `CTRL` +` s` (pour enregistrer les listes de lecture dans VLC Media Player, le raccourci est `CTRL` + `Y`) parfois, le problème peut se résoudre tout seul après la fermeture de quelques programmes. Si ce n'est pas le cas, fermez jusqu'à ce que vous arriviez au bureau et voyez s'il répond. Sinon, essayez les astuces ci-dessous, ou redémarrez votre système en appuyant sur `ALT` +` F4` sur le bureau, puis appuyez sur `TAB` pour sélectionner la liste déroulante, et utilisez les touches fléchées haut et bas jusqu'à ce que vous arriviez à` redémarrer` ou `shutdown` (sauf si une mise à jour est disponible, alors vous voudrez peut-être ou ne voudrez peut-être pas le faire)
 
 ** Vous ne devez PAS éteindre votre système en maintenant le bouton d'alimentation enfoncé ** sauf si le clavier ne répond pas aussi bien, cela devrait être un dernier recours) appuyer sur le bouton d'alimentation mettra l'ordinateur en mode veille (avec les paramètres par défaut) donc cela ne fonctionnera pas.
 
@@ -242,7 +242,7 @@ Source: [aucun] (https://www.example.com)
 
 ## Si tout le reste échoue
 
-Si tout le reste échoue, un redémarrage peut être nécessaire. Si cela ne fonctionne pas, ou si vous ne voulez pas / ne pouvez pas redémarrer, n'oubliez pas que vous pouvez utiliser votre ordinateur sans souris. Si vous avez un écran tactile, vous pouvez l'utiliser pour remplacer la souris, mais vous devriez probablement essayer d'apprendre à utiliser votreordinateur sans votre souris et sans saisie tactile.
+Si tout le reste échoue, un redémarrage peut être nécessaire. Si cela ne fonctionne pas, ou si vous ne voulez pas / ne pouvez pas redémarrer, n'oubliez pas que vous pouvez utiliser votre ordinateur sans souris. Si vous avez un écran tactile, vous pouvez l'utiliser pour remplacer la souris, mais vous devriez probablement essayer d'apprendre à utiliser votre ordinateur avecvotre souris et sans saisie tactile.
 
 Pour ouvrir un terminal, appuyez sur `[::] Windows` +` R`
 
@@ -253,6 +253,32 @@ Pour soumettre des informations dans un navigateur Web, tapez «ctrl» + «entr�
 Pour fermer une fenêtre, appuyez sur `alt` +` f4`
 
 Vous utiliserez probablement les touches `tab` et` enter` très fréquemment (l'onglet passe au bouton / élément disponible suivant)
+
+***
+
+<! - Informations sur le fichier WIN10CUR_HELP_README.md
+
+Version du fichier: `2 (dimanche 25 avril 2021 à 21h01)`
+
+Type de fichier: `Markdown document (* .md)`
+
+Nombre de lignes (y compris les lignes vides et la ligne du compilateur): `94`
+
+Changements dans la version 1:
+
+Démarré le fichier
+
+Autre info
+
+Changements dans la version 2:
+
+Mise à jour des informations sur le fichier
+
+Mise à jour de l'historique des fichiers
+
+Suppression et modification d'une blague sur les mises à jour forcées effectuées de mauvais goût
+
+! ->
 
 ***
 
@@ -322,6 +348,18 @@ Vous utiliserez probablement les touches `tab` et` enter` très fréquemment (l'
 
 ***
 
+# Solutions extrêmes pour les problèmes de curseur
+
+Tout le reste a-t-il échoué? Vous voulez juste essayer une solution extrême? En voici quelques-unes qui étaient trop extrêmes pour être mentionnées sur la liste principale:
+
+* Ne laissez jamais votre batterie tomber en dessous de «x» pour cent (20-31% recommandé comme «x»)
+
+* Ne laissez jamais votre batterie atteindre «y» pour cent (91-100% recommandé comme «y»)
+
+Ce sont toutes les solutions extrêmes qui ont fonctionné pour moi. [Recommander plus ici] (https://github.com/seanpm2001/Computer-cursor-tech-support/Discussions)
+
+***
+
 ## Wiki
 
 [Cliquez / appuyez ici pour voir ce wiki de projets] (https://github.com/seanpm2001/Computer-cursor-tech-support/wiki)
@@ -354,7 +392,7 @@ Essaye le! Le bouton de parrainage se trouve juste à côté du bouton de montre
 
 Toutes mes œuvres sont libres de certaines restrictions. DRM (** D ** igital ** R ** estrictions ** M ** anagement) n'est présent dans aucune de mes œuvres.
 
-! [Étiquette_sans DRM.en.svg] (étiquette_sans DRM.en.svg)
+! [DRM-free_label.en.svg] (DRM-free_label.en.svg)
 
 Cet autocollant est soutenu par la Free Software Foundation. Je n'ai jamais l'intention d'inclure la DRM dans mes travaux.
 
@@ -362,7 +400,7 @@ J'utilise l'abréviation «Digital Restrictions Management» au lieu de la plus 
 
 Cette section est utilisée pour sensibiliser aux problèmes de DRM, et aussi pour protester. DRM est défectueux de par sa conception et constitue une menace majeure pour tous les utilisateurs d'ordinateurs et la liberté des logiciels.
 
-Crédit d'image: [defectivebydesign.org/drm-free/...[https://www.defectivebydesign.org/drm-free/comment utiliser l'étiquette)
+Crédit d'image: [defectivebydesign.org/drm-free/...[https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
 ***
 
@@ -370,7 +408,7 @@ Crédit d'image: [defectivebydesign.org/drm-free/...[https://www.defectivebydesi
 
 Actuellement, je suis le seul contributeur. La contribution est autorisée, tant que vous suivez les règles du fichier [CONTRIBUTING.md] (CONTRIBUTING.md).
 
-> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 27 commits (à compter du dimanche 25 avril 2021 à 18h17)
+> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 97 commits (à compter du mardi 27 avril 2021 à 16h19)
 
 > * 2. Aucun autre contributeur.
 
@@ -462,9 +500,9 @@ La contribution est autorisée pour ce projet, tant que vous suivez les règles 
 
 Type de fichier: `Markdown (* .md)`
 
-Version du fichier: `1 (dimanche 25 avril 2021 à 18h17)`
+Version du fichier: `2 (mardi 27 avril 2021 à 16h19)`
 
-Nombre de lignes: "0,543"
+Nombre de lignes: "0,603"
 
 ***
 
@@ -522,13 +560,35 @@ Version 1 (dimanche 25 avril 2021 à 18h17)
 
 > * Pas d'autres changements dans la version 1
 
-Version 2 (à venir)
+Version 2 (mardi 27 avril 2021 à 16h19)
+
+> Changements:
+
+> * Mise à jour de la section Windows, suppression d'une blague non professionnelle
+
+> * Ajout de la section des solutions extrêmes
+
+> * Mise à jour de la section d'informations sur le fichier
+
+> * Mise à jour de la section historique des fichiers
+
+> * Pas d'autres changements dans la version 2
+
+Version 3 (à venir)
 
 > Changements:
 
 > * Prochainement
 
-> * Pas d'autres changements dans la version 2
+> * Pas d'autres changements dans la version 3
+
+Version 4 (à venir)
+
+> Changements:
+
+> * Prochainement
+
+> * Pas d'autres changements dans la version 4
 
 ***
 
