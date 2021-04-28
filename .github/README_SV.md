@@ -26,15 +26,15 @@ _🌐 Lista över språk_
 
 [Sorteringsalternativ är inte tillgängliga] (https://github.com/seanpm2001/Computer-cursor-tech-support)
 
-([af Afrikaans] (/. github / README_AF.md) Afrikaans | [sq Shqiptare] (/. github / README_SQ.md) Albanska | [am አማርኛ] (/. github / README_AM.md) Amhariska | [ar عربى] (/.github/README_AR.md) Arabiska | [hy հայերեն] (/. github / README_HY.md) Armeniska | [az Azərbaycan dili] (/. github / README_AZ.md) Azerbajdzjanska | [eu Euskara] (/. github /README_EU.md) Baskiska | [vara Беларуская] (/. Github / README_BE.md) Vitryska | [bn বাংলা] (/. Github / README_BN.md) Bengali | [bs Bosanski] (/. Github / README_BS.md) Bosniska | [bg български] (/. Github / README_BG.md) Bulgariska | [ca Català] (/. Github / README_CA.md) Katalanska | [ceb Sugbuanon] (/. Github / README_CEB.md) Cebuano | [ny Chichewa ] (/. github / README_NY.md) Chichewa | [zh-CN 简体 中文] (/. github / README_ZH-CN.md) Kinesiska (förenklad) | [zh-t 中國 傳統 的）] (/. github / README_ZH -T.md) Kinesiska (traditionell) | [co Corsu] (/. Github / README_CO.md) Korsikansk | [hr Hrvatski] (/. Github / README_HR.md) Kroatiska | [cs čeština] (/. Github / README_CS .md) Tjeckiska | [da dansk] (README_DA.md) Danska | [nl Nederlands] (/. github / README_ NL.md) nederländska | [** en-us engelska **] (/. github / README.md) Engelska | [EO Esperanto] (/. Github / README_EO.md) Esperanto | [et Eestlane] (/. github / README_ET.md) Estniska | [tl Pilipino] (/. github / README_TL.md) Filippinska | [fi Suomalainen] (/. github / README_FI.md) Finska | [fr français] (/. github / README_FR.md) Franska | [fy Frysk] (/. github / README_FY.md) Frisiska | [gl Galego] (/. github / README_GL.md) Galiciska | [ka ქართველი] (/. github / README_KA) Georgiska | [de Deutsch] (/. github / README_DE.md) Tyska | [el Ελληνικά] (/. github / README_EL.md) Grekiska | [gu ગુજરાતી] (/. github / README_GU.md) Gujarati | [ht Kreyòl ayisyen] (/. github / README_HT.md) Haitisk kreolsk | [ha Hausa] (/. github / README_HA.md) Hausa | [haw Ōlelo Hawaiʻi] (/. github / README_HAW.md) Hawaiian | [he עִברִית] (/. github / README_HE.md) Hebreiska | [hi हिन्दी] (/. github / README_HI.md) Hindi | [hmn Hmong] (/. github / README_HMN.md) Hmong | [hu Magyar] (/. github / README_HU.md) Ungerska | [är Íslenska] (/. github / README_IS.md) isländska | [ig Igbo] (/. github / README_IG.md) Igbo | [id bahasa Indonesia] (/. github / README_ID.md) Isländska | [ga Gaeilge] (/. github / README_GA.md) Irländska | [it Italiana / Italiano] (/. github / README_IT.md) | [ja 日本語] (/. github / README_JA.md) Japanska | [jw Wong jawa] (/. github / README_JW.md) Javanesiska | [kn ಕನ್ನಡ] (/. github / README_KN.md) Kannada | [kk Қазақ] (/. github / README_KK.md) Kazakiska | [km ខ្មែរ] (/. github / README_KM.md) Khmer | [rw Kinyarwanda] (/. github / README_RW.md) Kinyarwanda | [ko-south 韓國 語] (/. github / README_KO_SOUTH.md) Koreanska (South) | [ko-north 문화어] (README_KO_NORTH.md) Koreanska (North) (INTE ÄN TRANSLERAT) | [ku Kurdî] (/. github / README_KU.md) Kurdiska (Kurmanji) | [ky Кыргызча] (/. github / README_KY.md) Kirgizistan | [lo ລາວ] (/. github / README_LO.md) Lao | [la Latine] (/. github / README_LA.md) Latin | [lt Lietuvis] (/. github / README_LT.md) Litauiska | [lb Lëtzebuergesch] (/. github / README_LB.md) Luxemburgiska | [mk Македонски] (/. github / README_MK.md) Makedonska | [mg madagassiska] (/. github / README_MG.md) madagaskiska | [ms Bahasa Melayu] (/. github / README_MS.md) Malajiska | [ml മലയാളം] (/. github / README_ML.md) Malayalam | [mt Malti] (/. github / README_MT.md) Maltesiska | [mi Maori] (/. github / README_MI.md) Maori | [mr मराठी] (/. github / README_MR.md) Marathi | [mn Монгол] (/. github / README_MN.md) Mongoliska | [min မြန်မာ] (/. github / README_MY.md) Myanmar (burmesiska) | [ne नेपाली] (/. github / README_NE.md) Nepali | [no norsk] (/. github / README_NO.md) Norska | [eller ଓଡିଆ (ଓଡିଆ)] (/. github / README_OR.md) Odia (Oriya) | [ps پښتو] (/. github / README_PS.md) Pashto | [fa فارسی] (/. github / README_FA.md) | Persiska [pl polski] (/. github / README_PL.md) Polska | [pt português] (/. github / README_PT.md) Portugisiska | [pa ਪੰਜਾਬੀ] (/. github / README_PA.md) Punjabi | Inga tillgängliga språk som börjar med bokstaven Q | [ro Română] (/. github / README_RO.md) Rumänska | [ru русский] (/. github / README_RU.md) Ryska | [sm Faasamoa] (/. github / README_SM.md) Samoan | [gd Gàidhlig na h-Alba] (/. github / README_GD.md) Skotska gäliska | [sr Српски] (/. github / README_SR.md) Serbiska | [st Sesotho] (/. github / README_ST.md) Sesotho | [sn Shona] (/. github / README_SN.md) Shona | [sd سنڌي] (/. github / README_SD.md) Sindhi | [si සිංහල] (/. github / README_SI.md) Sinhala | [sk Slovák] (/. github / README_SK.md) Slovakiska | [sl Slovenščina] (/. github / README_SL.md) Slovenska | [so Soomaali] (/. github / README_SO.md) Somali | [[es en español] (/. github / README_ES.md) Spanska | [su Sundanis] (/. github / README_SU.md) Sundanese | [sw Kiswahili] (/. github / README_SW.md) Swahili | [sv Svenska] (/. github / README_SV.md) Svenska | [tg Тоҷикӣ] (/. github / README_TG.md) Tajik | [ta தமிழ்] (/. github / README_TA.md) Tamil | [tt Татар] (/. github / README_TT.md) Tatar | [te తెలుగు] (/. github / README_TE.md) Telugu | [th ไทย] (/. github / README_TH.md) Thai | [tr Türk] (/. github / README_TR.md) Turkiska | [tk Türkmenler] (/. github / README_TK.md) Turkmen | [uk Український] (/. github / README_UK.md) Ukrainska | [ur اردو] (/. github / README_UR.md) Urdu | [ug ئۇيغۇر] (/. github / README_UG.md) Uyghur | [uz O'zbek] (/. github / README_UZ.md) Uzbekiska | [vi Tiếng Việt] (/. github / README_VI.md) Vietnamesiska | [cy Cymraeg] (/. github / README_CY.md) Walesiska | [xh isiXhosa] (/. github / README_XH.md) Xhosa | [yi יידיש] (/. github / README_YI.md) jiddiska | [yo Yoruba] (/. github / README_YO.md) Yoruba | [zu Zulu] (/. github / README_ZU.md) Zulu) Finns på 110 språk (108 när man inte räknar med engelska och nordkoreanska, eftersom nordkoreanska inte har översatts ännu [Läs om det här] (/ OldVersions / Korean (North ) /README.md))
+([af Afrikaans] (/. github / README_AF.md) Afrikaans | [sq Shqiptare] (/. github / README_SQ.md) Albanska | [am አማርኛ] (/. github / README_AM.md) Amhariska | [ar عربى] (/.github/README_AR.md) Arabiska | [hy հայերեն] (/. github / README_HY.md) Armeniska | [az Azərbaycan dili] (/. github / README_AZ.md) Azerbajdzjanska | [eu Euskara] (/. github /README_EU.md) Baskiska | [vara Беларуская] (/. Github / README_BE.md) Vitryska | [bn বাংলা] (/. Github / README_BN.md) Bengali | [bs Bosanski] (/. Github / README_BS.md) Bosniska | [bg български] (/. Github / README_BG.md) Bulgariska | [ca Català] (/. Github / README_CA.md) Katalanska | [ceb Sugbuanon] (/. Github / README_CEB.md) Cebuano | [ny Chichewa ] (/. github / README_NY.md) Chichewa | [zh-CN 简体 中文] (/. github / README_ZH-CN.md) Kinesiska (förenklad) | [zh-t 中國 傳統 的）] (/. github / README_ZH -T.md) Kinesiska (traditionell) | [co Corsu] (/. Github / README_CO.md) Korsikansk | [hr Hrvatski] (/. Github / README_HR.md) Kroatiska | [cs čeština] (/. Github / README_CS .md) Tjeckiska | [da dansk] (README_DA.md) Danska | [nl Nederlands] (/. github / README_ NL.md) nederländska | [** en-us engelska **] (/. github / README.md) Engelska | [EO Esperanto] (/. Github / README_EO.md) Esperanto | [et Eestlane] (/. github / README_ET.md) Estniska | [tl Pilipino] (/. github / README_TL.md) Filippinska | [fi Suomalainen] (/. github / README_FI.md) Finska | [fr français] (/. github / README_FR.md) Franska | [fy Frysk] (/. github / README_FY.md) Frisiska | [gl Galego] (/. github / README_GL.md) Galiciska | [ka ქართველი] (/. github / README_KA) Georgiska | [de Deutsch] (/. github / README_DE.md) Tyska | [el Ελληνικά] (/. github / README_EL.md) Grekiska | [gu ગુજરાતી] (/. github / README_GU.md) Gujarati | [ht Kreyòl ayisyen] (/. github / README_HT.md) Haitisk kreolsk | [ha Hausa] (/. github / README_HA.md) Hausa | [haw Ōlelo Hawaiʻi] (/. github / README_HAW.md) Hawaiian | [he עִברִית] (/. github / README_HE.md) Hebreiska | [hi हिन्दी] (/. github / README_HI.md) Hindi | [hmn Hmong] (/. github / README_HMN.md) Hmong | [hu Magyar] (/. github / README_HU.md) Ungerska | [är Íslenska] (/. github / README_IS.md) isländska | [ig Igbo] (/. github / README_IG.md) Igbo | [id bahasa Indonesia] (/. github / README_ID.md) Isländska | [ga Gaeilge] (/. github / README_GA.md) Irländska | [it Italiana / Italiano] (/. github / README_IT.md) | [ja 日本語] (/. github / README_JA.md) Japanska | [jw Wong jawa] (/. github / README_JW.md) Javanesiska | [kn ಕನ್ನಡ] (/. github / README_KN.md) Kannada | [kk Қазақ] (/. github / README_KK.md) Kazakiska | [km ខ្មែរ] (/. github / README_KM.md) Khmer | [rw Kinyarwanda] (/. github / README_RW.md) Kinyarwanda | [ko-south 韓國 語] (/. github / README_KO_SOUTH.md) Koreanska (South) | [ko-north 문화어] (README_KO_NORTH.md) Koreanska (North) (INTE ÄN TRANSLERAT) | [ku Kurdî] (/. github / README_KU.md) Kurdiska (Kurmanji) | [ky Кыргызча] (/. github / README_KY.md) Kirgizistan | [lo ລາວ] (/. github / README_LO.md) Lao | [la Latine] (/. github / README_LA.md) Latin | [lt Lietuvis] (/. github / README_LT.md) Litauiska | [lb Lëtzebuergesch] (/. github / README_LB.md) Luxemburgiska | [mk Македонски] (/. github / README_MK.md) Makedonska | [mg madagassiska] (/. github / README_MG.md) madagaskiska | [ms Bahasa Melayu] (/. github / README_MS.md) Malajiska | [ml മലയാളം] (/. github / README_ML.md) Malayalam | [mt Malti] (/. github / README_MT.md) Maltesiska | [mi Maori] (/. github / README_MI.md) Maori | [mr मराठी] (/. github / README_MR.md) Marathi | [mn Монгол] (/. github / README_MN.md) Mongoliska | [min မြန်မာ] (/. github / README_MY.md) Myanmar (burmesiska) | [ne नेपाली] (/. github / README_NE.md) Nepali | [no norsk] (/. github / README_NO.md) Norska | [eller ଓଡିଆ (ଓଡିଆ)] (/. github / README_OR.md) Odia (Oriya) | [ps پښتو] (/. github / README_PS.md) Pashto | [fa فارسی] (/. github / README_FA.md) | Persiska [pl polski] (/. github / README_PL.md) Polska | [pt português] (/. github / README_PT.md) Portugisiska | [pa ਪੰਜਾਬੀ] (/. github / README_PA.md) Punjabi | Inga tillgängliga språk som börjar med bokstaven Q | [ro Română] (/. github / README_RO.md) Rumänska | [ru русский] (/. github / README_RU.md) Ryska | [sm Faasamoa] (/. github / README_SM.md) Samoan | [gd Gàidhlig na h-Alba] (/. github / README_GD.md) Skotska gäliska | [sr Српски] (/. github / README_SR.md) Serbiska | [st Sesotho] (/. github / README_ST.md) Sesotho | [sn Shona] (/. github / README_SN.md) Shona | [sd سنڌي] (/. github / README_SD.md) Sindhi | [si සිංහල] (/. github / README_SI.md) Sinhala | [sk Slovák] (/. github / README_SK.md) Slovakiska | [sl Slovenščina] (/. github / README_SL.md) Slovenska | [so Soomaali] (/. github / README_SO.md) Somali | [[es en español] (/. github / README_ES.md) Spanska | [su Sundanis] (/. github / README_SU.md) Sundanese | [sw Kiswahili] (/. github / README_SW.md) Swahili | [sv Svenska] (/. github / README_SV.md) Svenska | [tg Тоҷикӣ] (/. github / README_TG.md) Tadzjikiska | [ta தமிழ்] (/. github / README_TA.md) Tamil | [tt Татар] (/. github / README_TT.md) Tatar | [te తెలుగు] (/. github / README_TE.md) Telugu | [th ไทย] (/. github / README_TH.md) Thai | [tr Türk] (/. github / README_TR.md) Turkiska | [tk Türkmenler] (/. github / README_TK.md) Turkmen | [uk Український] (/. github / README_UK.md) Ukrainska | [ur اردو] (/. github / README_UR.md) Urdu | [ug ئۇيغۇر] (/. github / README_UG.md) Uyghur | [uz O'zbek] (/. github / README_UZ.md) Uzbekiska | [vi Tiếng Việt] (/. github / README_VI.md) Vietnamesiska | [cy Cymraeg] (/. github / README_CY.md) Walesiska | [xh isiXhosa] (/. github / README_XH.md) Xhosa | [yi יידיש] (/. github / README_YI.md) jiddiska | [yo Yoruba] (/. github / README_YO.md) Yoruba | [zu Zulu] (/. github / README_ZU.md) Zulu) Finns på 110 språk (108 när man inte räknar med engelska och nordkoreanska, eftersom nordkoreanska inte har översatts ännu [Läs om det här] (/ OldVersions / Korean (North ) /README.md))
 
 Översättningar på andra språk än engelska är maskinöversatta och är ännu inte korrekta. Inga fel har fixats ännu den 25 april 2021. Rapportera översättningsfel [här] (https://github.com/seanpm2001/Computer-cursor-tech-support/issues/) se till att säkerhetskopiera din korrigering med källor och vägleda mig, eftersom jag inte känner till andra språk än engelska bra (jag planerar att få en översättare så småningom) ange [wiktionary] (https://en.wiktionary.org) och andra källor i din rapport. Underlåtenhet att göra det kommer att leda till att korrigeringen avslås publiceras.
 
 Obs: på grund av begränsningar med GitHubs tolkning av markdown (och i stort sett alla andra webbaserade tolkningar av markdown), klickar du på dessa länkar till en separat fil på en separat sida som inte är min GitHub-profilsida. Du kommer att omdirigeras till [seanpm2001 / seanpm2001 repository] (https://github.com/seanpm2001/seanpm2001), där README är värd.
 
-Översättningar görs med Google Translate på grund av begränsat eller inget stöd för de språk jag behöver i andra översättningstjänster som DeepL och Bing Translate. Jag jobbar med att hitta ett alternativ. Av någon anledning är formateringen (länkar, avdelare, fetstil, kursiv, etc.) trasslad i olika översättningar. Det är tråkigt att fixa, och jag vet inte hur man fixar dessa problem på språk med icke-latinska tecken, och från höger till vänster-språk (som arabiska) behövs extra hjälp för att lösa dessa problem
+Översättningar görs med Google Translate på grund av begränsat eller inget stöd för de språk jag behöver i andra översättningstjänster som DeepL och Bing Translate. Jag jobbar med att hitta ett alternativ. Av någon anledning är formateringen (länkar, avdelare, fetstil, kursiv etc.) trasslad i olika översättningar. Det är tråkigt att fixa, och jag vet inte hur man fixar dessa problem på språk med icke-latinska tecken, och från höger till vänster-språk (som arabiska) behövs extra hjälp för att lösa dessa problem
 
-På grund av underhållsproblem är många översättningar föråldrade och använder en föråldrad version av denna `README`-artikelfil. En översättare behövs. Från och med den 25 april 2021 kommer det att ta mig ett tag att få alla nya länkar att fungera.
+På grund av underhållsproblem är många översättningar föråldrade och använder en föråldrad version av denna "README" -artikelfil. En översättare behövs. Från och med den 25 april 2021 kommer det att ta mig ett tag att få alla nya länkar att fungera.
 
 ***
 
@@ -187,9 +187,9 @@ Du kommer sannolikt att använda tangenterna `tab" och "enter" mycket ofta (tab 
 
 ***
 
-# Lösa problem med muspekaren i Windows 10
+## Lösa problem med muspekaren i Windows 10
 
-[Se Windows 10-hjälp] (/ Windows / Windows 10 /)
+[Se Windows 10-hjälp] (/ Windows / Windows 10 /) - Länken är för närvarande trasig
 
 Den här katalogen innehåller dokumentation och skript för att försöka hjälpa dig att fixa din frysta / felaktiga muspekare (muspekare eller bara markören) på Windows 10
 
@@ -197,7 +197,7 @@ Obs: den här guiden är ofullständig. Detta är en kraftigt modifierad version
 
 ## Grundläggande felsökning
 
-Om det är en engångs sak kan du stänga program med `alt` +` f4` och du kan spara dina filer med `CTRL` +` s` (för att spara spellistor i VLC Media Player är genvägen `CTRL` + Ibland kan problemet lösa sig själv efter att några program har stängts. Om inte fortsätt stänga tills du kommer till skrivbordet och se om det svarar. Om inte, prova tricken nedan eller starta om ditt system genom att trycka på 'ALT' + 'F4' på skrivbordet, tryck sedan på 'TAB' för att välja rullgardinsmenyn och använd upp- och nedpilen tills du kommer till 'starta om och uppdatering 'eller' uppdatering och avstängning '(om du inte har din "dagliga" tvingade Windows 10-uppdatering redo än, leta efter "starta om" eller "avstängning"
+Om det är en engångs sak kan du stänga program med `alt` +` f4` och du kan spara dina filer med `CTRL` +` s` (för att spara spellistor i VLC Media Player är genvägen `CTRL` + Ibland kan problemet lösa sig själv efter att några program har stängts. Om inte fortsätt stänga tills du kommer till skrivbordet och se om det svarar. Om inte, prova knep nedan, eller starta om ditt system genom att trycka på 'ALT' + 'F4' på skrivbordet, tryck sedan på 'TAB' för att välja rullgardinsmenyn och använd upp- och nedpiltangenterna tills du kommer till 'starta om'. eller 'avstängning' (om det inte finns en uppdatering tillgänglig, kanske du vill eller kanske inte vill göra det)
 
 ** Du bör INTE stänga av ditt system genom att hålla ner strömbrytaren ** om inte tangentbordet inte svarar lika bra, detta borde vara en sista utväg) om du trycker på strömbrytaren sätts datorn i viloläge (med standardinställningar) så det här fungerar inte.
 
@@ -211,14 +211,14 @@ För att installera om musen, prova detta skript i Windows-terminalen (normal te
 
 Obs: inget av dessa skript är tillgängliga än. Snälla hjälp mig att skriva den här artikeln bättre.
 
-`` powershell
-eko ("Data ej tillgänglig");
+'' powerhell
+echo ("Data ej tillgänglig");
 `` ''
 
 ÅTKOMST NEKAD
 
-`` powershell
-eko ("Data ej tillgänglig");
+'' powerhell
+echo ("Data ej tillgänglig");
 `` ''
 
 Lägg sedan tillbaka musen med det här skriptet:
@@ -226,7 +226,7 @@ Lägg sedan tillbaka musen med det här skriptet:
 Obs: inget av dessa skript är tillgängliga än. Snälla hjälp mig att skriva den här artikeln bättre.
 
 '' powerhell
-eko ("Data ej tillgänglig");
+echo ("Data ej tillgänglig");
 `` ''
 ÅTKOMST NEKAD
 
@@ -242,7 +242,7 @@ Källa: [none] (https://www.example.com)
 
 ## Om allt annat misslyckas
 
-Om allt annat misslyckas kan en omstart behövas. Om det inte fungerar, eller om du inte vill / kan inte starta om, kom ihåg att du kan använda din dator utan mus. Om du har en pekskärm kan du använda den för att byta ut musen, men du bör nog försöka lära dig hur du använder dindator utan mus och utan pekinmatning.
+Om allt annat misslyckas kan en omstart behövas. Om det inte fungerar, eller om du inte vill / kan inte starta om, kom ihåg att du kan använda din dator utan mus. Om du har en pekskärm kan du använda den för att byta ut musen, men du bör nog försöka lära dig hur du använder din dator medut din mus och utan pekinmatning.
 
 För att öppna en terminal, tryck `[::] Windows` +` R`
 
@@ -253,6 +253,32 @@ För att skicka information i en webbläsare, skriv "ctrl" + "enter"
 För att stänga ett fönster, tryck på `alt` +` f4`
 
 Du kommer sannolikt att använda tangenterna `tab" och "enter" mycket ofta (tab växlar till nästa tillgängliga knapp / element)
+
+***
+
+<! - Filinformation för WIN10CUR_HELP_README.md
+
+Filversion: '2 (söndag 25 april 2021 kl 21:01)'
+
+Filtyp: 'Markdown-dokument (* .md)'
+
+Linjeantal (inklusive tomma rader och kompilatorrad): `94`
+
+Ändringar i version 1:
+
+Startade filen
+
+Annan information
+
+Ändringar i version 2:
+
+Uppdaterade filinformationen
+
+Uppdaterade filhistoriken
+
+Borttagen och modifierade ett skämt om tvingade uppdateringar som gjordes i dålig smak
+
+! ->
 
 ***
 
@@ -322,6 +348,18 @@ Du kommer sannolikt att använda tangenterna `tab" och "enter" mycket ofta (tab 
 
 ***
 
+# Extrema lösningar för markörproblem
+
+Misslyckades allt annat? Vill du bara prova en extrem lösning? Här är några som var för extrema att nämna på huvudlistan:
+
+* Låt aldrig batteriet sjunka under "x" procent (20-31% rekommenderas som "x")
+
+* Låt aldrig batteriet nå `y` procent (91-100% rekommenderas som` y`)
+
+Det är alla extrema lösningar som har fungerat för mig. [Rekommendera mer här] (https://github.com/seanpm2001/Computer-cursor-tech-support/Discussions)
+
+***
+
 ## Wiki
 
 [Klicka / tryck här för att se projektets Wiki] (https://github.com/seanpm2001/Computer-cursor-tech-support/wiki)
@@ -334,7 +372,7 @@ Om projektet har gafflats, har Wiki sannolikt tagits bort. Lyckligtvis inkludera
 
 ! [SponsorButton.png] (SponsorButton.png)
 
-Du kan sponsra detta projekt om du vill, men ange vad du vill donera till. [Se de medel du kan donera till här] (https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+Du kan sponsra detta projekt om du vill, men ange vad du vill donera till. [Se medlen du kan donera till här] (https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
 
 Du kan se annan sponsorinformation [här] (https://github.com/seanpm2001/Sponsor-info/)
 
@@ -352,7 +390,7 @@ Testa! Sponsorknappen är alldeles intill klockan.
 
 ## Programvarustatus
 
-Alla mina verk är gratis några begränsningar. DRM (** D ** igital ** R ** estrictions ** M ** anagement) finns inte i något av mina verk.
+Alla mina verk är gratis vissa begränsningar. DRM (** D ** igital ** R ** estrictions ** M ** anagement) finns inte i något av mina verk.
 
 ! [DRM-free_label.en.svg] (DRM-free_label.en.svg)
 
@@ -362,7 +400,7 @@ Jag använder förkortningen "Digital Restrictions Management" istället för de
 
 Detta avsnitt används för att öka medvetenheten om problemen med DRM och också för att protestera mot det. DRM är defekt av design och är ett stort hot mot alla datoranvändare och programvarufrihet.
 
-Bildkredit: [defectivebydesign.org/drm-free/... ](https://www.defectivebydesign.org/drm-free/hur man använder etikett)
+Bildkredit: [defectivebydesign.org/drm-free/... ](https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
 ***
 
@@ -370,7 +408,7 @@ Bildkredit: [defectivebydesign.org/drm-free/... ](https://www.defectivebydesign.
 
 För närvarande är jag den enda bidragsgivaren. Att bidra är tillåtet så länge du följer reglerna i filen [CONTRIBUTING.md] (CONTRIBUTING.md).
 
-> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 27 åtaganden (Från och med söndagen den 25 april 2021 kl 18:17)
+> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 97 åtaganden (Från och med tisdag 27 april 2021 kl. 16:19)
 
 > * 2. Inga andra bidragsgivare.
 
@@ -462,9 +500,9 @@ Bidrag är tillåtet för detta projekt, så länge du följer reglerna i filen 
 
 Filtyp: 'Markdown (* .md)'
 
-Filversion: '1 (söndag 25 april 2021 kl 18:17)'
+Filversion: '2 (tisdag 27 april 2021 kl. 16:19)'
 
-Linjeantal: `0,543`
+Linjeantal: `0,603`
 
 ***
 
@@ -504,7 +542,7 @@ Version 0.1 (söndag 21 mars 2021 kl 19:50)
 
 > * Lade till resursavsnittet
 
-> * Har lagt till en sektion för programvarustatus med en DRM-fri klistermärke och ett meddelande
+> * Har lagt till en sektion för programvarustatus med DRM-fri klistermärke och meddelande
 
 > * Lade till avsnittet om sponsorinformation
 
@@ -522,13 +560,35 @@ Version 1 (söndag 25 april 2021 kl 18:17)
 
 > * Inga andra ändringar i version 1
 
-Version 2 (Kommer snart)
+Version 2 (tisdag 27 april 2021 kl 16:19)
+
+> Ändringar:
+
+> * Uppdaterade Windows-avsnittet, tog bort ett oprofessionellt skämt
+
+> * Lade till avsnittet extrema lösningar
+
+> * Uppdaterade avsnittet om filinformation
+
+> * Uppdaterade filhistorikavsnittet
+
+> * Inga andra ändringar i version 2
+
+Version 3 (Kommer snart)
 
 > Ändringar:
 
 > * Kommer snart
 
-> * Inga andra ändringar i version 2
+> * Inga andra ändringar i version 3
+
+Version 4 (Kommer snart)
+
+> Ändringar:
+
+> * Kommer snart
+
+> * Inga andra ändringar i version 4
 
 ***
 
