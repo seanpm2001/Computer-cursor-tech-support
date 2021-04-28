@@ -18,7 +18,7 @@
 
 _Leia este artigo em um idioma diferente: _
 
-** O idioma atual é: ** `Inglês (EUA)` _ (as traduções podem precisar ser corrigidas para corrigir o Inglês substituindo o idioma correto) _
+** O idioma atual é: ** `Inglês (EUA)` _ (as traduções podem precisar ser corrigidas para corrigir o inglês substituindo o idioma correto) _
 
 _🌐 Lista de idiomas_
 
@@ -32,7 +32,7 @@ As traduções em outros idiomas além do inglês são traduzidas automaticament
 
 Observação: devido às limitações da interpretação de markdown do GitHub (e quase todas as outras interpretações de markdown baseadas na web), clicar nesses links o redirecionará para um arquivo separado em uma página separada que não é minha página de perfil do GitHub. Você será redirecionado para o [repositório seanpm2001 / seanpm2001] (https://github.com/seanpm2001/seanpm2001), onde o README está hospedado.
 
-As traduções são feitas com o Google Translate devido ao suporte limitado ou nenhum suporte para os idiomas de que preciso em outros serviços de tradução, como DeepL e Bing Translate. Estou trabalhando para encontrar uma alternativa. Por algum motivo, a formatação (links, divisórias, negrito, itálico, etc.) está confusa em várias traduções. É tedioso de consertar e não sei como consertar esses problemas em idiomas com caracteres não latinos e em idiomas da direita para a esquerda (como o árabe) é necessária ajuda extra para corrigir esses problemas
+As traduções são feitas com o Google Translate devido ao suporte limitado ou nenhum suporte para os idiomas que preciso em outros serviços de tradução, como DeepL e Bing Translate. Estou trabalhando para encontrar uma alternativa. Por algum motivo, a formatação (links, divisórias, negrito, itálico, etc.) está confusa em várias traduções. É tedioso de corrigir e não sei como corrigir esses problemas em idiomas com caracteres não latinos e em idiomas da direita para a esquerda (como o árabe) é necessária ajuda extra para corrigir esses problemas
 
 Devido a problemas de manutenção, muitas traduções estão desatualizadas e usam uma versão desatualizada deste arquivo de artigo `README`. É necessário um tradutor. Além disso, a partir de 25 de abril de 2021, vou demorar um pouco para que todos os novos links funcionem.
 
@@ -173,7 +173,7 @@ Peguei esses exemplos no [Unix stackexchange] (https://unix.stackexchange.com/qu
 
 ## Se todo o resto falhar
 
-Se tudo mais falhar, uma reinicialização pode ser necessária. Se isso não funcionar ou se você não quiser / não puder reinicializar, lembre-se sempre de que você pode usar seu computador sem um mouse. Se você tem uma tela sensível ao toque, pode usá-la para substituir o mouse, mas provavelmente deve tentar aprender a usar o computador sem o mouse e sem toque.
+Se tudo mais falhar, uma reinicialização pode ser necessária. Se isso não funcionar ou se você não quiser / não puder reinicializar, lembre-se sempre de que você pode usar o computador sem um mouse. Se você tem uma tela sensível ao toque, pode usá-la para substituir o mouse, mas provavelmente deve tentar aprender a usar o computador sem o mouse e sem toque.
 
 Para abrir um terminal, digite `ctrl` +` alt` + `tab`
 
@@ -187,9 +187,9 @@ Você provavelmente usará as teclas `tab` e` enter` com muita frequência (a gu
 
 ***
 
-# Resolvendo os problemas do cursor do mouse no Windows 10
+## Resolvendo os problemas do cursor do mouse no Windows 10
 
-[Ver a ajuda do Windows 10] (/ Windows / Windows 10 /)
+[Ver a ajuda do Windows 10] (/ Windows / Windows 10 /) - O link está quebrado no momento
 
 Este diretório contém documentação e scripts para tentar ajudá-lo a consertar o cursor do mouse travado / com defeito (ponteiro do mouse ou apenas cursor) no Windows 10
 
@@ -197,7 +197,7 @@ Nota: este guia está incompleto. Esta é uma versão fortemente modificada do a
 
 ## Solução de problemas básicos
 
-Se for uma coisa única, você pode fechar programas com `alt` +` f4` e pode salvar seus arquivos com `CTRL` +` s` (para salvar playlists no VLC Media Player, o atalho é `CTRL` + `Y`) às vezes, o problema pode ser resolvido por conta própria depois que alguns programas são fechados. Caso contrário, continue fechando até chegar à área de trabalho e ver se ela responde. Caso contrário, tente os truques abaixo ou reinicie o sistema pressionando `ALT` +` F4` na área de trabalho, pressione `TAB` para selecionar o menu suspenso e use as teclas de seta para cima e para baixo até obter` reiniciar e update` ou `update and shutdown` (se você ainda não tem sua atualização forçada" diária "do Windows 10 pronta, apenas procure` restart` ou `shutdown`
+Se for uma coisa única, você pode fechar programas com `alt` +` f4` e pode salvar seus arquivos com `CTRL` +` s` (para salvar playlists no VLC Media Player, o atalho é `CTRL` + `Y`) às vezes, o problema pode ser resolvido por conta própria depois que alguns programas são fechados. Caso contrário, continue fechando até chegar à área de trabalho e ver se ela responde. Caso contrário, tente os truques abaixo ou reinicie o sistema pressionando `ALT` +` F4` na área de trabalho, pressione `TAB` para selecionar o menu suspenso e use as teclas de seta para cima e para baixo até obter` reiniciar` ou `shutdown` (a menos que haja uma atualização disponível, então você pode querer ou não fazer isso)
 
 ** Você NÃO deve desligar o sistema mantendo o botão liga / desliga pressionado ** a menos que o teclado não esteja respondendo também, este deve ser o último recurso) pressionar o botão liga / desliga colocará o computador no modo de hibernação (com configurações padrão) então isso não vai funcionar.
 
@@ -242,7 +242,7 @@ Fonte: [nenhum] (https://www.example.com)
 
 ## Se todo o resto falhar
 
-Se tudo mais falhar, uma reinicialização pode ser necessária. Se isso não funcionar ou se você não quiser / não puder reinicializar, lembre-se sempre de que você pode usar o computador sem um mouse. Se você tiver uma tela sensível ao toque, você pode usá-la para substituir o mouse, mas provavelmente você deve tentar aprender como usar o seucomputador sem o mouse e sem toque.
+Se tudo mais falhar, uma reinicialização pode ser necessária. Se isso não funcionar ou se você não quiser / não puder reinicializar, lembre-se sempre de que você pode usar o computador sem um mouse. Se você tiver uma tela sensível ao toque, você pode usá-la para substituir o mouse, mas você provavelmente deve tentar aprender como usar seu computador comcom o mouse e sem toque.
 
 Para abrir um terminal, pressione `[::] Windows` +` R`
 
@@ -253,6 +253,32 @@ Para enviar informações em um navegador da web, digite `ctrl` +` enter`
 Para fechar uma janela, pressione `alt` +` f4`
 
 Você provavelmente usará as teclas `tab` e` enter` com muita frequência (a guia muda para o próximo botão / elemento disponível)
+
+***
+
+<! - Informações do arquivo para WIN10CUR_HELP_README.md
+
+Versão do arquivo: `2 (domingo, 25 de abril de 2021 às 21h01)`
+
+Tipo de arquivo: `Documento Markdown (* .md)`
+
+Contagem de linha (incluindo linhas em branco e linha do compilador): `94`
+
+Mudanças na versão 1:
+
+Iniciou o arquivo
+
+Outras informações
+
+Mudanças na versão 2:
+
+Atualizado as informações do arquivo
+
+Atualizado o histórico do arquivo
+
+Removida e modificada uma piada sobre atualizações forçadas de mau gosto
+
+! ->
 
 ***
 
@@ -322,6 +348,18 @@ Você provavelmente usará as teclas `tab` e` enter` com muita frequência (a gu
 
 ***
 
+# Soluções extremas para problemas de cursor
+
+Todo o resto falhou? Quer apenas tentar uma solução extrema? Aqui estão alguns que eram muito extremos para mencionar na lista principal:
+
+* Nunca deixe a bateria cair abaixo de `x` por cento (20-31% recomendado como` x`)
+
+* Nunca deixe sua bateria atingir `y` por cento (91-100% recomendado como` y`)
+
+Essas são todas as soluções extremas que funcionaram para mim. [Recomende mais aqui] (https://github.com/seanpm2001/Computer-cursor-tech-support/Discussions)
+
+***
+
 ## Wiki
 
 [Clique / toque aqui para ver este projeto Wiki] (https://github.com/seanpm2001/Computer-cursor-tech-support/wiki)
@@ -362,7 +400,7 @@ Estou usando a abreviatura "Digital Restrictions Management" em vez da mais conh
 
 Esta seção é usada para aumentar a conscientização sobre os problemas com o DRM e também para protestar contra ele. O DRM apresenta defeitos de design e é uma grande ameaça a todos os usuários de computador e à liberdade do software.
 
-Crédito da imagem: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/etiqueta de como usar)
+Crédito da imagem: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
 ***
 
@@ -370,7 +408,7 @@ Crédito da imagem: [defectivebydesign.org/drm-free/...](https://www.defectiveby
 
 Atualmente, sou o único contribuidor. A contribuição é permitida, desde que você siga as regras do arquivo [CONTRIBUTING.md] (CONTRIBUTING.md).
 
-> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 27 commits (no domingo, 25 de abril de 2021 às 18:17)
+> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 97 commits (terça-feira, 27 de abril de 2021 às 4:19 pm)
 
 > * 2. Nenhum outro contribuidor.
 
@@ -462,9 +500,9 @@ Contribuir é permitido para este projeto, desde que você siga as regras do arq
 
 Tipo de arquivo: `Markdown (* .md)`
 
-Versão do arquivo: `1 (domingo, 25 de abril de 2021 às 18:17)`
+Versão do arquivo: `2 (terça-feira, 27 de abril de 2021 às 4:19 pm)`
 
-Contagem de linha: `0,543`
+Contagem de linha: `0,603`
 
 ***
 
@@ -522,13 +560,35 @@ Versão 1 (domingo, 25 de abril de 2021 às 18:17)
 
 > * Nenhuma outra mudança na versão 1
 
-Versão 2 (em breve)
+Versão 2 (terça-feira, 27 de abril de 2021 às 16h19)
+
+> Mudanças:
+
+> * Atualizada a seção do Windows, removida uma piada não profissional
+
+> * Adicionada a seção de soluções extremas
+
+> * Atualizada a seção de informações do arquivo
+
+> * Atualizada a seção de histórico de arquivos
+
+> * Nenhuma outra mudança na versão 2
+
+Versão 3 (em breve)
 
 > Mudanças:
 
 > * Em breve
 
-> * Nenhuma outra mudança na versão 2
+> * Nenhuma outra mudança na versão 3
+
+Versão 4 (em breve)
+
+> Mudanças:
+
+> * Em breve
+
+> * Nenhuma outra mudança na versão 4
 
 ***
 
