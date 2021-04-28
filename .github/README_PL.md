@@ -26,7 +26,7 @@ _🌐 Lista języków_
 
 [Opcje sortowania niedostępne] (https://github.com/seanpm2001/Computer-cursor-tech-support)
 
-([af Afrikaans] (/. github / README_AF.md) Afrikaans | [sq Shqiptare] (/. github / README_SQ.md) albański | [am አማርኛ] (/. github / README_AM.md) amharski | [ar عربى] (/.github/README_AR.md) arabski | [hy հայերեն] (/. github / README_HY.md) armeński | [az Azərbaycan dili] (/. github / README_AZ.md) azerbejdżański | [eu Euskara] (/. github /README_EU.md) baskijski | [be Беларуская] (/. Github / README_BE.md) białoruski | [bn বাংলা] (/. Github / README_BN.md) bengalski | [bs Bosanski] (/. Github / README_BS.md) Bośniacki | [bg български] (/. Github / README_BG.md) bułgarski | [ca Català] (/. Github / README_CA.md) kataloński | [ceb Sugbuanon] (/. Github / README_CEB.md) Cebuano | [ny Chichewa ] (/. github / README_NY.md) Chichewa | [zh-CN 简体 中文] (/. github / README_ZH-CN.md) Chiński (uproszczony) | [zh-t 中國 傳統 的）] (/. github / README_ZH -T.md) chiński (tradycyjny) | [co Corsu] (/. Github / README_CO.md) korsykański | [hr Hrvatski] (/. Github / README_HR.md) chorwacki | [cs čeština] (/. Github / README_CS .md) czeski | [da dansk] (README_DA.md) duński | [nl Nederlands] (/. github / README_ NL.md) holenderski | [** en-us English **] (/. github / README.md) Angielski | [EO Esperanto] (/. Github / README_EO.md) Esperanto | [et Eestlane] (/. github / README_ET.md) estoński | [tl Pilipino] (/. github / README_TL.md) filipiński | [fi Suomalainen] (/. github / README_FI.md) fiński | [fr français] (/. github / README_FR.md) francuski | [fy Frysk] (/. github / README_FY.md) Frisian | [gl Galego] (/. github / README_GL.md) Galicyjski | [ka ქართველი] (/. github / README_KA) gruziński | [de Deutsch] (/. github / README_DE.md) niemiecki | [el Ελληνικά] (/. github / README_EL.md) grecki | [gu ગુજરાતી] (/. github / README_GU.md) gudżarati | [ht Kreyòl ayisyen] (/. github / README_HT.md) haitański | [ha Hausa] (/. github / README_HA.md) Hausa | [haw Ōlelo Hawaiʻi] (/. github / README_HAW.md) Hawajski | [he עִברִית] (/. github / README_HE.md) hebrajski | [hi हिन्दी] (/. github / README_HI.md) hindi | [hmn Hmong] (/. github / README_HMN.md) Hmong | [hu Magyar] (/. github / README_HU.md) węgierski | [is Íslenska] (/. github / README_IS.md) islandzki | [ig Igbo] (/. github / README_IG.md) Igbo | [id bahasa Indonesia] (/. github / README_ID.md) islandzki | [ga Gaeilge] (/. github / README_GA.md) irlandzki | [it Italiana / Italiano] (/. github / README_IT.md) | [ja 日本語] (/. github / README_JA.md) Japoński | [jw Wong jawa] (/. github / README_JW.md) jawajski | [kn ಕನ್ನಡ] (/. github / README_KN.md) kannada | [kk Қазақ] (/. github / README_KK.md) Kazachski | [km ខ្មែរ] (/. github / README_KM.md) khmerski | [rw kinyarwanda] (/. github / README_RW.md) kinyarwanda | [ko-south 韓國 語] (/. github / README_KO_SOUTH.md) koreański (południe) | [ko-north 문화어] (README_KO_NORTH.md) koreański (północ) (JESZCZE NIE PRZETŁUMACZONY) | [ku Kurdî] (/. github / README_KU.md) kurdyjski (kurmanji) | [ky Кыргызча] (/. github / README_KY.md) kirgiski | [lo ລາວ] (/. github / README_LO.md) Lao | [la Latine] (/. github / README_LA.md) Latin | [lt Lietuvis] (/. github / README_LT.md) litewski | [lb Lëtzebuergesch] (/. github / README_LB.md) luksemburski | [mk Македонски] (/. github / README_MK.md) Macedoński | [mg malgaski] (/. github / README_MG.md) malgaski | [ms Bahasa Melayu] (/. github / README_MS.md) Malajski | [ml മലയാളം] (/. github / README_ML.md) malajalam | [mt Malti] (/. github / README_MT.md) maltański | [mi Maori] (/. github / README_MI.md) Maoryski | [pan मराठी] (/. github / README_MR.md) Marathi | [mn Монгол] (/. github / README_MN.md) mongolski | [my မြန်မာ] (/. github / README_MY.md) Myanmar (birmański) | [ne नेपाली] (/. github / README_NE.md) nepalski | [no norsk] (/. github / README_NO.md) norweski | [lub ଓଡିଆ (ଓଡିଆ)] (/. github / README_OR.md) Odia (Oriya) | [ps پښتو] (/. github / README_PS.md) paszto | [fa فارسی] (/. github / README_FA.md) | perski [pl polski] (/. github / README_PL.md) polski | [pt português] (/. github / README_PT.md) portugalski | [pa ਪੰਜਾਬੀ] (/. github / README_PA.md) Punjabi | Brak dostępnych języków zaczynających się na literę Q | [ro Română] (/. github / README_RO.md) rumuński | [ru русский] (/. github / README_RU.md) rosyjski | [sm Faasamoa] (/. github / README_SM.md) Samoan | [gd Gàidhlig na h-Alba] (/. github / README_GD.md) Szkocki gaelicki | [sr Српски] (/. github / README_SR.md) serbski | [st Sesotho] (/. github / README_ST.md) Sesotho | [sn Shona] (/. github / README_SN.md) Shona | [sd سنڌي] (/. github / README_SD.md) Sindhi | [si සිංහල] (/. github / README_SI.md) syngaleski | [sk Slovák] (/. github / README_SK.md) słowacki | [sl Slovenščina] (/. github / README_SL.md) słoweński | [so Soomaali] (/. github / README_SO.md) Somalijski | [[es en español] (/. github / README_ES.md) hiszpański | [su Sundanis] (/. github / README_SU.md) sundajski | [sw Kiswahili] (/. github / README_SW.md) suahili | [sv Svenska] (/. github / README_SV.md) szwedzki | [tg Тоҷикӣ] (/. github / README_TG.md) tadżycki | [ta தமிழ்] (/. github / README_TA.md) Tamil | [tt Татар] (/. github / README_TT.md) tatarski | [te తెలుగు] (/. github / README_TE.md) Telugu | [th ไทย] (/. github / README_TH.md) tajski | [tr Türk] (/. github / README_TR.md) turecki | [tk Türkmenler] (/. github / README_TK.md) Turkmen | [uk Український] (/. github / README_UK.md) ukraiński | [ur اردو] (/. github / README_UR.md) Urdu | [ug ئۇيغۇر] (/. github / README_UG.md) Uyghur | [uz O'zbek] (/. github / README_UZ.md) uzbecki | [vi Tiếng Việt] (/. github / README_VI.md) wietnamski | [cy Cymraeg] (/. github / README_CY.md) walijski | [xh isiXhosa] (/. github / README_XH.md) Xhosa | [yi יידיש] (/. github / README_YI.md) jidysz | [yo Yoruba] (/. github / README_YO.md) Joruba | [zu Zulu] (/. github / README_ZU.md) Zulu) Dostępny w 110 językach (108 nie licząc angielskiego i północnokoreańskiego, ponieważ język północnokoreański nie został jeszcze przetłumaczony [Przeczytaj o tym tutaj] (/ OldVersions / Korean (North ) /README.md))
+([af Afrikaans] (/. github / README_AF.md) Afrikaans | [sq Shqiptare] (/. github / README_SQ.md) albański | [am አማርኛ] (/. github / README_AM.md) amharski | [ar عربى] (/.github/README_AR.md) arabski | [hy հայերեն] (/. github / README_HY.md) armeński | [az Azərbaycan dili] (/. github / README_AZ.md) azerbejdżański | [eu Euskara] (/. github /README_EU.md) baskijski | [be Беларуская] (/. Github / README_BE.md) białoruski | [bn বাংলা] (/. Github / README_BN.md) bengalski | [bs Bosanski] (/. Github / README_BS.md) Bośniacki | [bg български] (/. Github / README_BG.md) bułgarski | [ca Català] (/. Github / README_CA.md) kataloński | [ceb Sugbuanon] (/. Github / README_CEB.md) Cebuano | [ny Chichewa ] (/. github / README_NY.md) Chichewa | [zh-CN 简体 中文] (/. github / README_ZH-CN.md) Chiński (uproszczony) | [zh-t 中國 傳統 的）] (/. github / README_ZH -T.md) chiński (tradycyjny) | [co Corsu] (/. Github / README_CO.md) korsykański | [hr Hrvatski] (/. Github / README_HR.md) chorwacki | [cs čeština] (/. Github / README_CS .md) czeski | [da dansk] (README_DA.md) duński | [nl Nederlands] (/. github / README_ NL.md) holenderski | [** en-us English **] (/. github / README.md) Angielski | [EO Esperanto] (/. Github / README_EO.md) Esperanto | [et Eestlane] (/. github / README_ET.md) estoński | [tl Pilipino] (/. github / README_TL.md) filipiński | [fi Suomalainen] (/. github / README_FI.md) fiński | [fr français] (/. github / README_FR.md) francuski | [fy Frysk] (/. github / README_FY.md) Frisian | [gl Galego] (/. github / README_GL.md) Galicyjski | [ka ქართველი] (/. github / README_KA) gruziński | [de Deutsch] (/. github / README_DE.md) niemiecki | [el Ελληνικά] (/. github / README_EL.md) grecki | [gu ગુજરાતી] (/. github / README_GU.md) gudżarati | [ht Kreyòl ayisyen] (/. github / README_HT.md) haitański | [ha Hausa] (/. github / README_HA.md) Hausa | [haw Ōlelo Hawaiʻi] (/. github / README_HAW.md) Hawajski | [he עִברִית] (/. github / README_HE.md) hebrajski | [hi हिन्दी] (/. github / README_HI.md) hindi | [hmn Hmong] (/. github / README_HMN.md) Hmong | [hu Magyar] (/. github / README_HU.md) węgierski | [is Íslenska] (/. github / README_IS.md) islandzki | [ig Igbo] (/. github / README_IG.md) Igbo | [id bahasa Indonesia] (/. github / README_ID.md) islandzki | [ga Gaeilge] (/. github / README_GA.md) irlandzki | [it Italiana / Italiano] (/. github / README_IT.md) | [ja 日本語] (/. github / README_JA.md) Japoński | [jw Wong jawa] (/. github / README_JW.md) jawajski | [kn ಕನ್ನಡ] (/. github / README_KN.md) kannada | [kk Қазақ] (/. github / README_KK.md) Kazachski | [km ខ្មែរ] (/. github / README_KM.md) khmerski | [rw kinyarwanda] (/. github / README_RW.md) kinyarwanda | [ko-south 韓國 語] (/. github / README_KO_SOUTH.md) koreański (południe) | [ko-north 문화어] (README_KO_NORTH.md) koreański (północ) (JESZCZE NIE PRZETŁUMACZONY) | [ku Kurdî] (/. github / README_KU.md) kurdyjski (kurmanji) | [ky Кыргызча] (/. github / README_KY.md) kirgiski | [lo ລາວ] (/. github / README_LO.md) Lao | [la Latine] (/. github / README_LA.md) Latin | [lt Lietuvis] (/. github / README_LT.md) litewski | [lb Lëtzebuergesch] (/. github / README_LB.md) luksemburski | [mk Македонски] (/. github / README_MK.md) Macedoński | [mg malgaski] (/. github / README_MG.md) malgaski | [ms Bahasa Melayu] (/. github / README_MS.md) Malajski | [ml മലയാളം] (/. github / README_ML.md) malajalam | [mt Malti] (/. github / README_MT.md) maltański | [mi Maori] (/. github / README_MI.md) Maoryski | [pan मराठी] (/. github / README_MR.md) Marathi | [mn Монгол] (/. github / README_MN.md) mongolski | [my မြန်မာ] (/. github / README_MY.md) Myanmar (birmański) | [ne नेपाली] (/. github / README_NE.md) nepalski | [no norsk] (/. github / README_NO.md) norweski | [lub ଓଡିଆ (ଓଡିଆ)] (/. github / README_OR.md) Odia (Oriya) | [ps پښتو] (/. github / README_PS.md) paszto | [fa فارسی] (/. github / README_FA.md) | perski [pl polski] (/. github / README_PL.md) polski | [pt português] (/. github / README_PT.md) portugalski | [pa ਪੰਜਾਬੀ] (/. github / README_PA.md) Punjabi | Brak dostępnych języków zaczynających się na literę Q | [ro Română] (/. github / README_RO.md) rumuński | [ru русский] (/. github / README_RU.md) rosyjski | [sm Faasamoa] (/. github / README_SM.md) Samoan | [gd Gàidhlig na h-Alba] (/. github / README_GD.md) Szkocki gaelicki | [sr Српски] (/. github / README_SR.md) serbski | [st Sesotho] (/. github / README_ST.md) Sesotho | [sn Shona] (/. github / README_SN.md) Shona | [sd سنڌي] (/. github / README_SD.md) Sindhi | [si සිංහල] (/. github / README_SI.md) syngaleski | [sk Slovák] (/. github / README_SK.md) słowacki | [sl Slovenščina] (/. github / README_SL.md) słoweński | [so Soomaali] (/. github / README_SO.md) Somalijski | [[es en español] (/. github / README_ES.md) hiszpański | [su Sundanis] (/. github / README_SU.md) sundajski | [sw Kiswahili] (/. github / README_SW.md) suahili | [sv Svenska] (/. github / README_SV.md) szwedzki | [tg Тоҷикӣ] (/. github / README_TG.md) tadżycki | [ta தமிழ்] (/. github / README_TA.md) Tamil | [tt Татар] (/. github / README_TT.md) tatarski | [te తెలుగు] (/. github / README_TE.md) Telugu | [th ไทย] (/. github / README_TH.md) tajski | [tr Türk] (/. github / README_TR.md) turecki | [tk Türkmenler] (/. github / README_TK.md) Turkmen | [uk Український] (/. github / README_UK.md) ukraiński | [ur اردو] (/. github / README_UR.md) Urdu | [ug ئۇيغۇر] (/. github / README_UG.md) Uyghur | [uz O'zbek] (/. github / README_UZ.md) uzbecki | [vi Tiếng Việt] (/. github / README_VI.md) wietnamski | [cy Cymraeg] (/. github / README_CY.md) walijski | [xh isiXhosa] (/. github / README_XH.md) Xhosa | [yi יידיש] (/. github / README_YI.md) jidysz | [yo Yoruba] (/. github / README_YO.md) Joruba | [zu Zulu] (/. github / README_ZU.md) Zulu) Dostępny w 110 językach (108, jeśli nie licząc angielskiego i północnokoreańskiego, ponieważ język północnokoreański nie został jeszcze przetłumaczony. ) /README.md))
 
 Tłumaczenia na języki inne niż angielski są tłumaczone maszynowo i nie są jeszcze dokładne. Żadne błędy nie zostały jeszcze naprawione od 25 kwietnia 2021 r. Prosimy o zgłaszanie błędów tłumaczenia [tutaj] (https://github.com/seanpm2001/Computer-cursor-tech-support/issues/). prowadź mnie, ponieważ nie znam dobrze innych języków niż angielski (planuję w końcu znaleźć tłumacza), proszę zacytować [wikisłownik] (https://en.wiktionary.org) i inne źródła w Twoim raporcie. Niezastosowanie się do tego spowoduje odrzucenie opublikowanej korekty.
 
@@ -74,7 +74,7 @@ Z powodu problemów konserwacyjnych, wiele tłumaczeń jest nieaktualnych i uży
 
 [09.0 - Zasoby] (# Zasoby)
 
-[10.0 - Współtworzenie] (# Wkład)
+[10.0 - Współtworzenie] (# Współtworzenie)
 
 [11.0 - O README] (# About-README)
 
@@ -187,9 +187,9 @@ Najprawdopodobniej będziesz często używać klawiszy `tab` i` enter` (karta pr
 
 ***
 
-# Rozwiązywanie problemów z kursorem myszy w systemie Windows 10
+## Rozwiązywanie problemów z kursorem myszy w systemie Windows 10
 
-[Zobacz pomoc systemu Windows 10] (/ Windows / Windows 10 /)
+[Zobacz pomoc Windows 10] (/ Windows / Windows 10 /) - Link jest obecnie uszkodzony
 
 Ten katalog zawiera dokumentację i skrypty, które pomogą Ci naprawić zamrożony / nieprawidłowo działający kursor myszy (wskaźnik myszy lub tylko kursor) w systemie Windows 10
 
@@ -197,7 +197,7 @@ Uwaga: ten przewodnik jest niekompletny. To jest mocno zmodyfikowana wersja arty
 
 ## Podstawowe rozwiązywanie problemów
 
-Jeśli jest to jednorazowa rzecz, możesz zamknąć programy za pomocą `alt` +` f4` i możesz zapisać swoje pliki za pomocą `CTRL` +` s` (aby zapisać listy odtwarzania w VLC Media Player, skrót to `CTRL` + `Y`) czasami problem może rozwiązać się samoczynnie po zamknięciu kilku programów. Jeśli nie, zamykaj, aż dojdziesz do pulpitu i zobacz, czy zareaguje. Jeśli nie, wypróbuj poniższe sztuczki lub zrestartuj system, naciskając klawisze `ALT` +` F4` na pulpicie, a następnie naciśnij `TAB`, aby wybrać listę rozwijaną, i użyj klawiszy strzałek w górę iw dół, aż dojdziesz do polecenia` restart and update` lub `update and shutdown` (jeśli nie masz jeszcze gotowej" codziennej "wymuszonej aktualizacji systemu Windows 10, po prostu poszukaj opcji` restart` lub `shutdown`
+Jeśli jest to jednorazowa rzecz, możesz zamknąć programy za pomocą `alt` +` f4` i możesz zapisać swoje pliki za pomocą `CTRL` +` s` (aby zapisać listy odtwarzania w VLC Media Player, skrót to `CTRL` + `Y`) czasami problem może rozwiązać się samoczynnie po zamknięciu kilku programów. Jeśli nie, zamykaj, aż dojdziesz do pulpitu i zobacz, czy zareaguje. Jeśli nie, wypróbuj poniższe sztuczki lub zrestartuj system, naciskając klawisze `ALT` +` F4` na pulpicie, a następnie naciśnij `TAB`, aby wybrać listę rozwijaną, i użyj klawiszy strzałek w górę iw dół, aż dojdziesz do polecenia` restart` lub `shutdown` (chyba że jest dostępna aktualizacja, wtedy możesz chcieć lub nie chcieć tego robić)
 
 ** NIE należy wyłączać systemu, przytrzymując przycisk zasilania ** chyba, że ​​klawiatura również nie reaguje, powinno to być ostateczność) naciśnięcie przycisku zasilania spowoduje przejście komputera w tryb uśpienia (z ustawieniami domyślnymi) więc to nie zadziała.
 
@@ -242,7 +242,7 @@ Możesz zobaczyć skrypty [tutaj] (/ Windows / Windows 10 / Scripts /)
 
 ## Jeśli wszystko inne zawiedzie
 
-Jeśli wszystko inne zawiedzie, może być konieczne ponowne uruchomienie. Jeśli to nie zadziała lub nie chcesz / nie możesz ponownie uruchomić, zawsze pamiętaj, że możesz używać komputera bez myszy. Jeśli masz ekran dotykowy, możesz go użyć do wymiany myszy, ale prawdopodobnie powinieneś spróbować nauczyć się korzystać zkomputer bez myszy i bez wprowadzania dotykowego.
+Jeśli wszystko inne zawiedzie, może być konieczne ponowne uruchomienie. Jeśli to nie zadziała lub nie chcesz / nie możesz ponownie uruchomić, zawsze pamiętaj, że możesz używać komputera bez myszy. Jeśli masz ekran dotykowy, możesz go użyć do wymiany myszy, ale prawdopodobnie powinieneś spróbować nauczyć się obsługi komputera zz myszy i bez wprowadzania dotykowego.
 
 Aby otworzyć terminal, naciśnij `[::] Windows` +` R`
 
@@ -253,6 +253,32 @@ Aby przesłać informacje w przeglądarce internetowej, wpisz `ctrl` +` enter`
 Aby zamknąć okno, naciśnij `alt` +` f4`
 
 Najprawdopodobniej będziesz często używać klawiszy `tab` i` enter` (karta przełącza do następnego dostępnego przycisku / elementu)
+
+***
+
+<! - Informacje o pliku WIN10CUR_HELP_README.md
+
+Wersja pliku: `2 (niedziela, 25 kwietnia 2021, godzina 21:01)`
+
+Typ pliku: `Dokument Markdown (* .md)`
+
+Liczba wierszy (w tym puste wiersze i wiersz kompilatora): „94”
+
+Zmiany w wersji 1:
+
+Uruchomiono plik
+
+Inne informacje
+
+Zmiany w wersji 2:
+
+Zaktualizowano informacje o pliku
+
+Zaktualizowano historię plików
+
+Usunięto i zmodyfikowano żart o wymuszonych aktualizacjach, który został wykonany w złym guście
+
+! ->
 
 ***
 
@@ -322,6 +348,18 @@ Najprawdopodobniej będziesz często używać klawiszy `tab` i` enter` (karta pr
 
 ***
 
+# Ekstremalne rozwiązania problemów kursora
+
+Czy wszystko inne zawiodło? Chcesz po prostu wypróbować ekstremalne rozwiązanie? Oto kilka, które były zbyt ekstremalne, aby wymienić je na głównej liście:
+
+* Nigdy nie pozwól, aby bateria spadła poniżej „x” procent (20-31% zalecane jako „x”)
+
+* Nigdy nie pozwól, aby bateria osiągnęła wartość „y” procent (91–100% zalecane jako „y”)
+
+To są wszystkie ekstremalne rozwiązania, które się sprawdziły. [Polecam więcej tutaj] (https://github.com/seanpm2001/Computer-cursor-tech-support/Discussions)
+
+***
+
 ## Wiki
 
 [Kliknij / dotknij tutaj, aby wyświetlić wiki tego projektu] (https://github.com/seanpm2001/Computer-cursor-tech-support/wiki)
@@ -338,7 +376,7 @@ Możesz sponsorować ten projekt, jeśli chcesz, ale określ, na co chcesz przek
 
 Możesz wyświetlić inne informacje o sponsorach [tutaj] (https://github.com/seanpm2001/Sponsor-info/)
 
-Wypróbuj to! Przycisk sponsora znajduje się tuż obok przycisku zegarka / odblokowania.
+Wypróbuj to! Przycisk sponsora znajduje się tuż obok przycisku zegarka / zwolnienia.
 
 ***
 
@@ -362,15 +400,15 @@ Używam skrótu „Digital Restrictions Management” zamiast bardziej znanego �
 
 Ta sekcja służy do podnoszenia świadomości na temat problemów z DRM, a także do protestowania przeciwko temu. DRM jest wadliwy z założenia i stanowi główne zagrożenie dla wszystkich użytkowników komputerów i wolności oprogramowania.
 
-Źródło obrazu: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/etykieta-jak-używać)
+Źródło obrazu: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
 ***
 
 ## Współtwórcy
 
-Obecnie jestem jedynym współpracownikiem. Współtworzenie jest dozwolone, o ile przestrzegasz zasad pliku [CONTRIBUTING.md] (CONTRIBUTING.md).
+Obecnie jestem jedynym współpracownikiem. Współtworzenie jest dozwolone, o ile przestrzegasz zasad zawartych w pliku [CONTRIBUTING.md] (CONTRIBUTING.md).
 
-> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 27 zatwierdzeń (od niedzieli 25 kwietnia 2021 o 18:17)
+> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 97 zatwierdzeń (od wtorku 27 kwietnia 2021 r. O 16:19)
 
 > * 2. Brak innych współpracowników.
 
@@ -462,9 +500,9 @@ Współtworzenie jest dozwolone dla tego projektu, o ile przestrzegasz zasad pli
 
 Typ pliku: `Markdown (* .md)`
 
-Wersja pliku: `1 (niedziela, 25 kwietnia 2021 o 18:17)`
+Wersja pliku: `2 (wtorek, 27 kwietnia 2021 o 16:19)`
 
-Liczba linii: „0,543”
+Liczba linii: „0,603”
 
 ***
 
@@ -522,13 +560,35 @@ Wersja 1 (niedziela, 25 kwietnia 2021 o 18:17)
 
 > * Brak innych zmian w wersji 1
 
-Wersja 2 (wkrótce)
+Wersja 2 (wtorek, 27 kwietnia 2021 o 16:19)
+
+> Zmiany:
+
+> * Zaktualizowano sekcję Windows, usunięto nieprofesjonalny żart
+
+> * Dodano sekcję rozwiązań ekstremalnych
+
+> * Zaktualizowano sekcję informacji o pliku
+
+> * Zaktualizowano sekcję historii plików
+
+> * Brak innych zmian w wersji 2
+
+Wersja 3 (wkrótce)
 
 > Zmiany:
 
 > * Wkrótce
 
-> * Brak innych zmian w wersji 2
+> * Brak innych zmian w wersji 3
+
+Wersja 4 (wkrótce)
+
+> Zmiany:
+
+> * Wkrótce
+
+> * Brak innych zmian w wersji 4
 
 ***
 
