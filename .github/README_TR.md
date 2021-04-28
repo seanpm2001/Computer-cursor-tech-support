@@ -2,7 +2,7 @@
 
 # Bilgisayar İmleci teknik desteği
 
-! [{Proje simgesi} Bu görüntü yüklenemedi. Dosyaya ulaşılmamasından veya genel bir hatadan kaynaklanıyor olabilir. Olası bir genel hatayı düzeltmek için sayfayı yeniden yükleyin.] (/. Github / SocialPreview / CursorOC_1920x1080.png)
+! [{Proje simgesi} Bu görüntü yüklenemedi. Dosyaya ulaşılmamış olması veya genel bir hata olabilir. Olası bir genel hatayı düzeltmek için sayfayı yeniden yükleyin.] (/. Github / SocialPreview / CursorOC_1920x1080.png)
 
 # Tarafından:
 
@@ -32,7 +32,7 @@ _🌐 dil listesi_
 
 Not: GitHub'ın markdown yorumlamasındaki sınırlamalar nedeniyle (ve hemen hemen her diğer web tabanlı markdown yorumlaması) bu bağlantılara tıklamak sizi GitHub profil sayfam olmayan ayrı bir sayfadaki ayrı bir dosyaya yönlendirecektir. README'nin barındırıldığı [seanpm2001 / seanpm2001 deposuna] (https://github.com/seanpm2001/seanpm2001) yönlendirileceksiniz.
 
-Çeviriler, DeepL ve Bing Translate gibi diğer çeviri hizmetlerinde ihtiyaç duyduğum dillerin sınırlı veya hiç desteklenmemesi nedeniyle Google Çeviri ile yapılır. Bir alternatif bulmaya çalışıyorum. Bazı nedenlerden dolayı, biçimlendirme (bağlantılar, bölücüler, kalın, italik vb.) Çeşitli çevirilerde karışıktır. Düzeltmek sıkıcı ve bu sorunları latin olmayan karakterler içeren dillerde nasıl düzelteceğimi bilmiyorum ve sağdan sola dillerde (Arapça gibi) bu sorunları gidermek için ekstra yardım gerekiyor
+Çeviriler, DeepL ve Bing Translate gibi diğer çeviri hizmetlerinde ihtiyaç duyduğum diller için sınırlı destek olduğundan veya hiç desteklenmediğinden Google Çeviri ile yapılır. Bir alternatif bulmaya çalışıyorum. Bazı nedenlerden dolayı, biçimlendirme (bağlantılar, bölücüler, kalın, italik vb.) Çeşitli çevirilerde karışıktır. Düzeltmek sıkıcı ve bu sorunları latin olmayan karakterler içeren dillerde nasıl düzelteceğimi bilmiyorum ve sağdan sola dillerde (Arapça gibi) bu sorunları gidermek için ekstra yardım gerekiyor
 
 Bakım sorunları nedeniyle, birçok çeviri güncel değil ve bu "BENİOKU" makale dosyasının eski bir sürümünü kullanıyor. Bir çevirmene ihtiyaç var. Ayrıca, 25 Nisan 2021 itibariyle, tüm yeni bağlantıları çalışır hale getirmem biraz zaman alacak.
 
@@ -187,9 +187,9 @@ Büyük olasılıkla "sekme" ve "enter" tuşlarını çok sık kullanacaksınız
 
 ***
 
-# Windows 10 fare imleci sorunlarınızı çözme
+## Windows 10 fare imleci sorunlarınızı çözme
 
-[Windows 10 yardımına bakın] (/ Windows / Windows 10 /)
+[Windows 10 yardımına bakın] (/ Windows / Windows 10 /) - Bağlantı şu anda bozuk
 
 Bu dizin, Windows 10'da donmuş / hatalı çalışan fare imlecinizi (fare işaretçisi veya sadece imleç) düzeltmenize yardımcı olacak belgeleri ve komut dosyalarını içerir.
 
@@ -197,7 +197,7 @@ Not: Bu kılavuz eksiktir. Bu, Linux makalesinin oldukça değiştirilmiş bir s
 
 ## Temel sorun giderme
 
-Tek seferlik bir şeyse, "alt" + "f4" ile programları kapatabilir ve dosyalarınızı "CTRL" + "s" ile kaydedebilirsiniz (oynatma listelerini VLC Media Player'a kaydetmek için kısayol "CTRL" + `Y`) bazen birkaç program kapatıldıktan sonra sorun kendi kendine çözülebilir. Masaüstüne gelene kadar kapanmaya devam etmiyorsanız ve yanıt verip vermediğine bakın. Değilse, aşağıdaki hileleri deneyin veya masaüstünde "ALT" + "F4" tuşlarına basarak sisteminizi yeniden başlatın, ardından açılır menüyü seçmek için "SEKME" ye basın ve "yeniden başlatıp" başlayana kadar yukarı ve aşağı ok tuşlarını kullanın. güncelle 'veya' güncelle ve kapat '("günlük" zorunlu Windows 10 güncellemeniz henüz hazır değilse, "yeniden başlat" veya "kapat" ifadesini aramanız yeterlidir.
+Tek seferlik bir şeyse, "alt" + "f4" ile programları kapatabilir ve dosyalarınızı "CTRL" + "s" ile kaydedebilirsiniz (oynatma listelerini VLC Media Player'a kaydetmek için kısayol "CTRL" + `Y`) bazen birkaç program kapatıldıktan sonra sorun kendi kendine çözülebilir. Masaüstüne gelene kadar kapanmaya devam etmiyorsanız ve yanıt verip vermediğine bakın. Değilse, aşağıdaki hileleri deneyin veya masaüstünde "ALT" + "F4" tuşlarına basarak sisteminizi yeniden başlatın, ardından açılır menüyü seçmek için "TAB" tuşuna basın ve "yeniden başlat" olana kadar yukarı ve aşağı ok tuşlarını kullanın. veya "kapatma" (mevcut bir güncelleme yoksa, yapmak isteyebilir veya yapmak istemeyebilirsiniz)
 
 ** Klavye de yanıt vermediği sürece güç düğmesini basılı tutarak sisteminizi KAPATMAMALISINIZ **, bu son çare olmalıdır) güç düğmesine basmak bilgisayarı uyku moduna geçirir (varsayılan ayarlarla) bu yüzden bu işe yaramayacak.
 
@@ -242,7 +242,7 @@ Kaynak: [yok] (https://www.example.com)
 
 ## Eğer hepsi hataysa
 
-Her şey başarısız olursa, yeniden başlatma gerekebilir. Bu işe yaramazsa veya yeniden başlatmak istemiyorsanız / yeniden başlatamıyorsanız, bilgisayarınızı fare olmadan kullanabileceğinizi her zaman unutmayın. Dokunmatik ekranınız varsa, bunu fareyi değiştirmek için kullanabilirsiniz, ancak muhtemelen cihazınızı nasıl kullanacağınızı öğrenmeye çalışmalısınız.bilgisayar fareniz ve dokunmatik giriş olmadan.
+Her şey başarısız olursa, yeniden başlatma gerekebilir. Bu işe yaramazsa veya yeniden başlatmak istemiyorsanız / yeniden başlatamıyorsanız, bilgisayarınızı fare olmadan kullanabileceğinizi her zaman unutmayın. Dokunmatik ekranınız varsa, bunu fareyi değiştirmek için kullanabilirsiniz, ancak muhtemelen bilgisayarınızı nasıl kullanacağınızı öğrenmeye çalışmalısınız.farenizi çıkarın ve dokunmatik giriş olmadan.
 
 Bir terminal açmak için "[::] Windows` +` R` tuşlarına basın
 
@@ -253,6 +253,32 @@ Bilgileri bir web tarayıcısında göndermek için, 'ctrl` + `enter` yazın
 Bir pencereyi kapatmak için "alt" + "f4" tuşlarına basın
 
 Büyük olasılıkla "sekme" ve "enter" tuşlarını çok sık kullanacaksınız (sekme, bir sonraki kullanılabilir düğmeye / öğeye geçer)
+
+***
+
+<! - WIN10CUR_HELP_README.md için dosya bilgileri
+
+Dosya sürümü: `2 (25 Nisan 2021 Pazar, 21:01) '
+
+Dosya türü: `` Markdown belgesi (* .md) '
+
+Satır sayısı (boş satırlar ve derleyici satırı dahil): "94"
+
+1. versiyondaki değişiklikler:
+
+Dosyayı başlattı
+
+Diğer bilgiler
+
+2. sürümdeki değişiklikler:
+
+Dosya bilgileri güncellendi
+
+Dosya geçmişini güncelledi
+
+Kötü tatla yapılan zorunlu güncellemelerle ilgili bir şaka kaldırıldı ve değiştirildi
+
+! ->
 
 ***
 
@@ -322,6 +348,18 @@ Büyük olasılıkla "sekme" ve "enter" tuşlarını çok sık kullanacaksınız
 
 ***
 
+# İmleç sorunları için olağanüstü çözümler
+
+Her şey başarısız oldu mu? Sadece aşırı bir çözüm denemek mi istiyorsunuz? İşte ana listede bahsedilemeyecek kadar uç noktalardan bazıları:
+
+* Asla pilinizin yüzde "x" in altına düşmesine izin vermeyin ("x" olarak% 20-31 önerilir)
+
+* Asla pilinizin yüzde "y" ye ulaşmasına izin vermeyin ("y" olarak% 91-100 önerilir)
+
+Bunlar benim için işe yarayan tüm aşırı çözümler. [Burada daha fazla önerin] (https://github.com/seanpm2001/Computer-cursor-tech-support/Discussions)
+
+***
+
 ## Wiki
 
 [Bu projelerin Wiki'sini görüntülemek için buraya tıklayın / dokunun] (https://github.com/seanpm2001/Computer-cursor-tech-support/wiki)
@@ -362,7 +400,7 @@ Daha yaygın olarak bilinen "Dijital Haklar Yönetimi" yerine "Dijital Kısıtla
 
 Bu bölüm, DRM ile ilgili sorunlar konusunda farkındalık yaratmak ve ayrıca bunu protesto etmek için kullanılır. DRM, tasarım gereği kusurludur ve tüm bilgisayar kullanıcıları ve yazılım özgürlüğü için büyük bir tehdittir.
 
-Resim kredisi: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/nasıl kullanılır etiketi)
+Resim kredisi: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
 ***
 
@@ -370,7 +408,7 @@ Resim kredisi: [defectivebydesign.org/drm-free/...](https://www.defectivebydesig
 
 Şu anda tek katkıda bulunan benim. [CONTRIBUTING.md] (CONTRIBUTING.md) dosyasının kurallarına uyduğunuz sürece katkıda bulunmaya izin verilir.
 
-> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 27 kaydetme (25 Nisan 2021 Pazar, 18:17 itibarıyla)
+> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 97 kaydetme (27 Nisan 2021 Salı, saat 16:19 itibariyle)
 
 > * 2. Başka katılımcı yok.
 
@@ -462,9 +500,9 @@ Kendi sorunlarımı arşivliyorum. Arşivlenmesini istemediğiniz sürece sorunu
 
 Dosya türü: `Markdown (* .md) '
 
-Dosya sürümü: `1 (25 Nisan 2021 Pazar, 18:17) '
+Dosya sürümü: `2 (27 Nisan 2021 Salı, 16:19) '
 
-Satır sayısı: "0,543"
+Satır sayısı: "0,603"
 
 ***
 
@@ -522,13 +560,35 @@ Sürüm 1 (25 Nisan 2021 Pazar, 18:17)
 
 > * Sürüm 1'de başka değişiklik yok
 
-Sürüm 2 (Yakında)
+Sürüm 2 (27 Nisan 2021, Salı, 16:19)
+
+> Değişiklikler:
+
+> * Windows bölümü güncellendi, profesyonel olmayan bir şaka kaldırıldı
+
+> * Ekstrem çözümler bölümü eklendi
+
+> * Dosya bilgisi bölümü güncellendi
+
+> * Dosya geçmişi bölümü güncellendi
+
+> * Sürüm 2'de başka değişiklik yok
+
+Sürüm 3 (Yakında)
 
 > Değişiklikler:
 
 > * Çok yakında
 
-> * Sürüm 2'de başka değişiklik yok
+> * Sürüm 3'te başka değişiklik yok
+
+Sürüm 4 (Yakında)
+
+> Değişiklikler:
+
+> * Çok yakında
+
+> * Sürüm 4'te başka değişiklik yok
 
 ***
 
