@@ -26,7 +26,7 @@ _🌐语言列表_
 
 [排序选项不可用]（https://github.com/seanpm2001/Computer-cursor-tech-support）
 
-（[af Afrikaans]（/。github / README_AF.md）Afrikaans | [sq Shqiptare]（/。github / README_SQ.md）阿尔巴尼亚语| [amአማርኛ]（/。github / README_AM.md）Amharic | [arعربى] （/.github/README_AR.md）阿拉伯语| [hyհայերեն]（/。github / README_HY.md）亚美尼亚语| [azAzərbaycandili]（/。github / README_AZ.md）阿塞拜疆| [eu Euskara]（/。github /README_EU.md）巴斯克语| [beБеларуская]（/。github / README_BE.md）白俄罗斯语| [bnবাংলা]（/。github / README_BN.md）孟加拉语| [bs Bosanski]（/。github / README_BS.md）波斯尼亚语| [bgбългарски]（/。github / README_BG.md）保加利亚语| [caCatalà]（/。github / README_CA.md）加泰罗尼亚语| [ceb Sugbuanon]（/ .. github / README_CEB.md）Cebuano | [ny Chichewa ]（/。github / README_NY.md）Chichewa | [zh-CN简体中文]（/。github / README_ZH-CN.md）简体中文| [zh-t中国传统的）]（/。github / README_ZH -T.md）中文（繁体）| [co Corsu]（/。github / README_CO.md）科西嘉语| [hr Hrvatski]（/。github / README_HR.md）克罗地亚语| [csčeština]（/。github / README_CS .md）捷克语| [da dansk]（README_DA.md）丹麦语| [nl Nederlands]（/。github / README_ NL.md）荷兰语| [** zh-cn英语**]（/。github / README.md）英语| [EO世界语]（/。github / README_EO.md）世界语| [et Eestlane]（/。github / README_ET.md）爱沙尼亚语| [tl Pilipino]（/。github / README_TL.md）菲律宾| [fi Suomalainen]（/。github / README_FI.md）芬兰语| [frfrançais]（/。github / README_FR.md）法语| [fy Frysk]（/。github / README_FY.md）弗里斯兰语| [gl Galego]（/。github / README_GL.md）加利西亚语| [kaქართველი]（/。github / README_KA）格鲁吉亚语| [de Deutsch]（/。github / README_DE.md）德语| [elΕλληνικά]（/。github / README_EL.md）希腊语| [guગુજરાતી]（/。github / README_GU.md）古吉拉特语| [htKreyòlayisyen]（/。github / README_HT.md）海地克里奥尔语| [ha Hausa]（/。github / README_HA.md）Hausa | [hawŌleloHawaiʻi]（/。github / README_HAW.md）夏威夷语| [heעִברִית]（/。github / README_HE.md）希伯来语| [hiहिन्दी]（/。github / README_HI.md）印地语| [hmn Hmong]（/。github / README_HMN.md）Hmong | [hu Magyar]（/。github / README_HU.md）匈牙利语| [是Íslenska]（/。github / README_IS.md）冰岛语| [ig Igbo]（/。github / README_IG.md）Igbo | [id bahasa Indonesia]（/。github / README_ID.md）冰岛语| [ga Gaeilge]（/。github / README_GA.md）爱尔兰语| [it Italiana / Italiano]（/。github / README_IT.md）| [ja日本语]（/。github / README_JA.md）日语| [jw Wong颌骨]（/。github / README_JW.md）Javanese | [knಕನ್ನಡ]（/。github / README_KN.md）卡纳达语| [kkҚазақ]（/。github / README_KK.md）哈萨克语| [kmខ្មែរ]（/。github / README_KM.md）高棉语| [rw Kinyarwanda]（/。github / README_RW.md）Kinyarwanda | [ko-south韩国语]（/。github / README_KO_SOUTH.md）韩语（南）| [ko-north문화어]（README_KO_NORTH.md）朝鲜语（北部）（尚未翻译）| [kuKurdî]（/。github / README_KU.md）库尔德语（Kurmanji）| [kyКыргызча]（/。github / README_KY.md）吉尔吉斯语| [loລາວ]（/。github / README_LO.md）老挝| [la Latine]（/。github / README_LA.md）拉丁语| [lt Lietuvis]（/。github / README_LT.md）立陶宛语| [lbLëtzebuergesch]（/。github / README_LB.md）卢森堡语| [mkМакедонски]（/。github / README_MK.md）马其顿语| [mg马达加斯加语]（/。github / README_MG.md）马达加斯加语| [ms Bahasa Melayu]（/。github / README_MS.md）马来语| [mlമലയാളം]（/。github / README_ML.md）马拉雅拉姆语| [mt Malti]（/。github / README_MT.md）马耳他语| [mi Maori]（/。github / README_MI.md）毛利人| [mrमराठी]（/。github / README_MR.md）马拉地语| [mnМонгол]（/。github / README_MN.md）蒙古语| [myမြန်မာ]（/。github / README_MY.md）缅甸（缅甸）| [neनेपाली]（/。github / README_NE.md）尼泊尔语| [no norsk]（/。github / README_NO.md）挪威文| [或ଓଡିଆ（ଓଡିଆ）]（/。github / README_OR.md）Odia（奥里亚语）| [psپښتو]（/。github / README_PS.md）普什图语| [faفارسی]（/。github / README_FA.md）|波斯语[pl polski]（/。github / README_PL.md）波兰语| [ptportuguês]（/。github / README_PT.md）葡萄牙语| [paਪੰਜਾਬੀ]（/。github / README_PA.md）旁遮普语|没有可用字母Q |开头的语言。 [roRomână]（/。github / README_RO.md）罗马尼亚语| [ruрусский]（/。github / README_RU.md）俄语| [sm Faasamoa]（/。github / README_SM.md）萨摩亚语| [gdGàidhligna h-Alba]（/。github / README_GD.md）Scots Gaelic | [srСрпски]（/。github / README_SR.md）塞尔维亚语| [st Sesotho]（/。github / README_ST.md）Sesotho | [sn Shona]（/。github / README_SN.md）Shona | [sdسنڌي]（/。github / README_SD.md）信德语| [siසිංහල]（/。github / README_SI.md）僧伽罗语| [sk斯洛伐克语]（/。github / README_SK.md）斯洛伐克语| [slSlovenščina]（/。github / README_SL.md）斯洛文尼亚语| [so Soomaali]（/。github / README_SO.md）索马里文| [[esenspañol]（/。github / README_ES.md）西班牙语| [su Sundanis]（/。github / README_SU.md）Sundanese | [sw Kiswahili]（/。github / README_SW.md）斯瓦希里语| [sv Svenska]（/。github / README_SV.md）瑞典语| [tgТоҷикӣ]（/。github / README_TG.md）塔吉克语| [taதமிழ்]（/。github / README_TA.md）泰米尔语| [ttТатар]（/。github / README_TT.md）塔塔尔语| [teతెలుగు]（/。github / README_TE.md）泰卢固语| [thไทย]（/。github / README_TH.md）泰国语| [trTürk]（/。github / README_TR.md）土耳其语| [tkTürkmenler]（/。github / README_TK.md）土库曼人| [ukУкраїнський]（/。github / README_UK.md）乌克兰语| [urاردو]（/。github / README_UR.md）乌尔都语| [ugئۇيغۇر]（/。github / README_UG.md）维吾尔语| [uz O'zbek]（/。github / README_UZ.md）乌兹别克语| [viTiếngViệt]（/。github / README_VI.md）越南语| [cy Cymraeg]（/。github / README_CY.md）威尔士语| [xh isiXhosa]（/。github / README_XH.md）Xhosa | [yiיידיש]（/。github / README_YI.md）意第绪语| [yo Yoruba]（/。github / README_YO.md）Yoruba | [zu Zulu]（/。github / README_ZU.md）Zulu）有110种语言版本（不算英语和朝鲜语时为108种语言，因为朝鲜语尚未翻译。 ）/README.md））
+（[af Afrikaans]（/。github / README_AF.md）Afrikaans | [sq Shqiptare]（/。github / README_SQ.md）阿尔巴尼亚语| [amአማርኛ]（/。github / README_AM.md）Amharic | [arعربى] （/.github/README_AR.md）阿拉伯语| [hyհայերեն]（/。github / README_HY.md）亚美尼亚语| [azAzərbaycandili]（/。github / README_AZ.md）阿塞拜疆| [eu Euskara]（/。github /README_EU.md）巴斯克语| [beБеларуская]（/。github / README_BE.md）白俄罗斯语| [bnবাংলা]（/。github / README_BN.md）孟加拉语| [bs Bosanski]（/。github / README_BS.md）波斯尼亚语| [bgбългарски]（/。github / README_BG.md）保加利亚语| [caCatalà]（/。github / README_CA.md）加泰罗尼亚语| [ceb Sugbuanon]（/ .. github / README_CEB.md）Cebuano | [ny Chichewa ]（/。github / README_NY.md）Chichewa | [zh-CN简体中文]（/。github / README_ZH-CN.md）简体中文| [zh-t中国传统的）]（/。github / README_ZH -T.md）中文（繁体）| [co Corsu]（/。github / README_CO.md）科西嘉语| [hr Hrvatski]（/。github / README_HR.md）克罗地亚语| [csčeština]（/。github / README_CS .md）捷克语| [da dansk]（README_DA.md）丹麦语| [nl Nederlands]（/。github / README_ NL.md）荷兰语| [** zh-cn英语**]（/。github / README.md）英语| [EO世界语]（/。github / README_EO.md）世界语| [et Eestlane]（/。github / README_ET.md）爱沙尼亚语| [tl Pilipino]（/。github / README_TL.md）菲律宾| [fi Suomalainen]（/。github / README_FI.md）芬兰语| [frfrançais]（/。github / README_FR.md）法语| [fy Frysk]（/。github / README_FY.md）弗里斯兰语| [gl Galego]（/。github / README_GL.md）加利西亚语| [kaქართველი]（/。github / README_KA）格鲁吉亚语| [de Deutsch]（/。github / README_DE.md）德语| [elΕλληνικά]（/。github / README_EL.md）希腊语| [guગુજરાતી]（/。github / README_GU.md）古吉拉特语| [htKreyòlayisyen]（/。github / README_HT.md）海地克里奥尔语| [ha Hausa]（/。github / README_HA.md）Hausa | [hawŌleloHawaiʻi]（/。github / README_HAW.md）夏威夷语| [heעִברִית]（/。github / README_HE.md）希伯来语| [hiहिन्दी]（/。github / README_HI.md）印地语| [hmn Hmong]（/。github / README_HMN.md）Hmong | [hu Magyar]（/。github / README_HU.md）匈牙利语| [是Íslenska]（/。github / README_IS.md）冰岛语| [ig Igbo]（/。github / README_IG.md）Igbo | [id bahasa Indonesia]（/。github / README_ID.md）冰岛语| [ga Gaeilge]（/。github / README_GA.md）爱尔兰语| [it Italiana / Italiano]（/。github / README_IT.md）| [ja日本语]（/。github / README_JA.md）日语| [jw Wong颌骨]（/。github / README_JW.md）Javanese | [knಕನ್ನಡ]（/。github / README_KN.md）卡纳达语| [kkҚазақ]（/。github / README_KK.md）哈萨克语| [kmខ្មែរ]（/。github / README_KM.md）高棉语| [rw Kinyarwanda]（/。github / README_RW.md）Kinyarwanda | [ko-south韩国语]（/。github / README_KO_SOUTH.md）韩语（南）| [ko-north문화어]（README_KO_NORTH.md）朝鲜语（北部）（尚未翻译）| [kuKurdî]（/。github / README_KU.md）库尔德语（Kurmanji）| [kyКыргызча]（/。github / README_KY.md）吉尔吉斯语| [loລາວ]（/。github / README_LO.md）老挝| [la Latine]（/。github / README_LA.md）拉丁语| [lt Lietuvis]（/。github / README_LT.md）立陶宛语| [lbLëtzebuergesch]（/。github / README_LB.md）卢森堡语| [mkМакедонски]（/。github / README_MK.md）马其顿语| [mg马达加斯加语]（/。github / README_MG.md）马达加斯加语| [ms Bahasa Melayu]（/。github / README_MS.md）马来语| [mlമലയാളം]（/。github / README_ML.md）马拉雅拉姆语| [mt Malti]（/。github / README_MT.md）马耳他语| [mi Maori]（/。github / README_MI.md）毛利人| [mrमराठी]（/。github / README_MR.md）马拉地语| [mnМонгол]（/。github / README_MN.md）蒙古语| [myမြန်မာ]（/。github / README_MY.md）缅甸（缅甸）| [neनेपाली]（/。github / README_NE.md）尼泊尔语| [no norsk]（/。github / README_NO.md）挪威文| [或ଓଡିଆ（ଓଡିଆ）]（/。github / README_OR.md）Odia（奥里亚语）| [psپښتو]（/。github / README_PS.md）普什图语| [faفارسی]（/。github / README_FA.md）|波斯语[pl polski]（/。github / README_PL.md）波兰语| [ptportuguês]（/。github / README_PT.md）葡萄牙语| [paਪੰਜਾਬੀ]（/。github / README_PA.md）旁遮普语|没有可用字母Q |开头的语言。 [roRomână]（/。github / README_RO.md）罗马尼亚语| [ruрусский]（/。github / README_RU.md）俄语| [sm Faasamoa]（/。github / README_SM.md）萨摩亚语| [gdGàidhligna h-Alba]（/。github / README_GD.md）Scots Gaelic | [srСрпски]（/。github / README_SR.md）塞尔维亚语| [st Sesotho]（/。github / README_ST.md）Sesotho | [sn Shona]（/。github / README_SN.md）Shona | [sdسنڌي]（/。github / README_SD.md）信德语| [siසිංහල]（/。github / README_SI.md）僧伽罗语| [sk斯洛伐克语]（/。github / README_SK.md）斯洛伐克语| [slSlovenščina]（/。github / README_SL.md）斯洛文尼亚语| [so Soomaali]（/。github / README_SO.md）索马里文| [[esenspañol]（/。github / README_ES.md）西班牙语| [su Sundanis]（/。github / README_SU.md）Sundanese | [sw Kiswahili]（/。github / README_SW.md）斯瓦希里语| [sv Svenska]（/。github / README_SV.md）瑞典语| [tgТоҷикӣ]（/。github / README_TG.md）塔吉克语| [taதமிழ்]（/。github / README_TA.md）泰米尔语| [ttТатар]（/。github / README_TT.md）塔塔尔语| [teతెలుగు]（/。github / README_TE.md）泰卢固语| [thไทย]（/。github / README_TH.md）泰国语| [trTürk]（/。github / README_TR.md）土耳其语| [tkTürkmenler]（/。github / README_TK.md）土库曼人| [ukУкраїнський]（/。github / README_UK.md）乌克兰语| [urاردو]（/。github / README_UR.md）乌尔都语| [ugئۇيغۇر]（/。github / README_UG.md）维吾尔语| [uz O'zbek]（/。github / README_UZ.md）乌兹别克语| [viTiếngViệt]（/。github / README_VI.md）越南语| [cy Cymraeg]（/。github / README_CY.md）威尔士语| [xh isiXhosa]（/。github / README_XH.md）Xhosa | [yiיידיש]（/。github / README_YI.md）意第绪语| [yo Yoruba]（/。github / README_YO.md）Yoruba | [zu Zulu]（/。github / README_ZU.md）Zulu）支持110种语言（不算英语和朝鲜语时为108种语言，因为朝鲜语尚未翻译[请在此处阅读] [/ OldVersions / Korean（North ）/README.md））
 
 除英语以外的其他语言的翻译是机器翻译的，尚不准确。截至2021年4月25日，尚未修复错误。请在此处报告翻译错误（https://github.com/seanpm2001/Computer-cursor-tech-support/issues/）确保备份您的更正内容，并指导我，因为我不太懂英语（我打算最终获得翻译）的语言，所以请在报告中引用[wiktionary]（https://en.wiktionary.org）和其他来源。否则，将拒绝发布更正。
 
@@ -44,7 +44,7 @@ _🌐语言列表_
 
 > [00.1-标题]（＃Computer-cursor-tech-support）
 
-> [00.2-用另一种语言阅读本文]（＃Read-this-article-in另一种语言）
+> [00.2-用另一种语言阅读本文]（＃Read-this-article-in-a-language语言）
 
 > [00.3-索引]（＃Index）
 
@@ -187,9 +187,9 @@ sudo modprobe psmouse＃添加它
 
 ***
 
-＃解决Windows 10鼠标光标问题
+##解决Windows 10鼠标光标问题
 
-[请参阅Windows 10帮助]（/ Windows / Windows 10 /）
+[请参阅Windows 10帮助]（/ Windows / Windows 10 /）-链接当前断开
 
 该目录包含文档和脚本，以尝试帮助您修复Windows 10上冻结/故障的鼠标光标（鼠标指针或仅光标）
 
@@ -197,7 +197,7 @@ sudo modprobe psmouse＃添加它
 
 ##基本故障排除
 
-如果是一次性的，则可以使用alt + f4关闭程序，并可以使用CTRL + s保存文件（要在VLC Media Player中保存播放列表，快捷键是CTRL +有时，问题可能会在一些程序关闭后自行解决。如果没有关闭，请保持关闭状态，直到您进入桌面，然后查看它是否响应。如果没有，请尝试以下技巧，或通过在桌面上按Alt + F4重启系统，然后按TAB键选择下拉菜单，并使用向上和向下箭头键，直到重新启动并重新启动。更新”或“更新并关闭”（如果您还没有“每日”强制Windows 10更新准备就绪，只需查找“重新启动”或“关闭”即可）。
+如果是一次性的，则可以使用alt + f4关闭程序，并可以使用CTRL + s保存文件（要在VLC Media Player中保存播放列表，快捷键是CTRL +有时，问题可能会在一些程序关闭后自行解决。如果没有关闭，请保持关闭状态，直到您进入桌面，然后查看它是否响应。如果不是，请尝试以下技巧，或通过在桌面上按Alt + F4重启系统，然后按TAB键选择下拉菜单，并使用向上和向下箭头键，直到重新启动为止。或“关机”（除非有可用的更新，否则您可能想要或可能不想这样做）
 
 **您不应该通过按住电源按钮来关闭系统电源**，除非键盘也没有响应，这应该是最后的选择。按电源按钮会使计算机进入睡眠模式（默认设置）所以这行不通。
 
@@ -242,7 +242,7 @@ Powershell
 
 ##如果其他所有方法都失败
 
-如果其他所有方法均失败，则可能需要重新启动。如果这不起作用，或者您不想/无法重新启动，请始终记住您可以在没有鼠标的情况下使用计算机。如果您有触摸屏，则可以用它来代替鼠标，但是您应该尝试学习如何使用您的触摸屏。没有鼠标且没有触摸输入的计算机。
+如果其他所有方法均失败，则可能需要重新启动。如果这不起作用，或者您不想/无法重新启动，请始终记住您可以在没有鼠标的情况下使用计算机。如果您有触摸屏，则可以用它来代替鼠标，但是您可能应该尝试学习如何在以下情况下使用计算机：无需触摸输入即可操作鼠标。
 
 要打开终端，请按Windows上的[::] +R。
 
@@ -253,6 +253,32 @@ Powershell
 要关闭窗口，请按Alt + F4。
 
 您可能会非常频繁地使用`tab`和`enter`键（选项卡切换到下一个可用的按钮/元素）
+
+***
+
+<！-WIN10CUR_HELP_README.md的文件信息
+
+档案版本：`2（2021年4月25日，星期日，晚上9:01）`
+
+文件类型：`降价文件（* .md）`
+
+行数（包括空白行和编译器行）：`94`
+
+版本1中的更改​​：
+
+开始文件
+
+其他资讯
+
+版本2中的更改：
+
+更新了文件信息
+
+更新了文件历史记录
+
+删除并修改了有关强制更新的笑话，该笑话是在不良品味中完成的
+
+！->
 
 ***
 
@@ -322,6 +348,18 @@ sudo modprobe psmouse＃添加它
 
 ***
 
+＃游标问题的极端解决方案
+
+其他一切都失败了吗？只想尝试一个极端的解决方案？以下是一些太过极端而无法在主列表中提及的内容：
+
+*切勿让您的电池电量降低到“ x”百分比以下（建议将20-31％的电量称为“ x”）
+
+*切勿让电池电量达到“ y”百分比（建议将91-100％的电池设为“ y”）
+
+这些都是对我有用的极端解决方案。 [在这里推荐更多]（https://github.com/seanpm2001/Computer-cursor-tech-support/Discussions）
+
+***
+
 ##维基
 
 [单击/点击此处以查看此项目Wiki]（https://github.com/seanpm2001/Computer-cursor-tech-support/wiki）
@@ -362,7 +400,7 @@ sudo modprobe psmouse＃添加它
 
 本部分用于提高对DRM问题的认识，并进行抗议。 DRM在设计上是有缺陷的，并且是对所有计算机用户和软件自由的重大威胁。
 
-图片来源：[defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/标签使用方法）
+图片来源：[defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label）
 
 ***
 
@@ -370,7 +408,7 @@ sudo modprobe psmouse＃添加它
 
 目前，我是唯一的贡献者。只要遵守[CONTRIBUTING.md]（CONTRIBUTING.md）文件的规则，就可以进行贡献。
 
-> * 1. [seanpm2001]（https://github.com/seanpm2001/）-27次提交（截至2021年4月25日，星期日，下午6:17）
+> * 1. [seanpm2001]（https://github.com/seanpm2001/）-97次提交（截至2021年4月27日，星期二，下午4:19）
 
 > * 2.没有其他贡献者。
 
@@ -462,9 +500,9 @@ sudo modprobe psmouse＃添加它
 
 文件类型：`Markdown（* .md）`
 
-档案版本：`1（2021年4月25日，星期日，下午6:17）`
+文件版本：`2（2021年2月27日，星期二，下午4:19）`
 
-行数：`0,543`
+行数：`0,603`
 
 ***
 
@@ -522,13 +560,35 @@ sudo modprobe psmouse＃添加它
 
 > *版本1中没有其他更改
 
-版本2（即将推出）
+版本2（2021年2月27日，星期二，下午4:19）
+
+>变更：
+
+> *更新了Windows部分，删除了一个不专业的玩笑
+
+> *添加了“极限解决方案”部分
+
+> *更新了文件信息部分
+
+> *更新了文件历史记录部分
+
+> *版本2中没有其他更改
+
+版本3（即将推出）
 
 >变更：
 
 > *即将推出
 
-> *版本2中没有其他更改
+> *版本3中没有其他更改
+
+版本4（即将推出）
+
+>变更：
+
+> *即将推出
+
+> *版本4中没有其他更改
 
 ***
 
