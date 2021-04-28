@@ -18,7 +18,7 @@
 
 _ Lees hierdie artikel in 'n ander taal:
 
-** Huidige taal is: ** `Engels (VS)` _ (vertalings moet dalk reggestel word om Engels reg te stel wat die regte taal vervang) _
+** Huidige taal is: ** `Engels (VS)` _ (vertalings moet dalk reggestel word om Engels reg te stel om die regte taal te vervang) _
 
 _🌐 Lys van tale_
 
@@ -26,7 +26,7 @@ _🌐 Lys van tale_
 
 [Sorteeropsies nie beskikbaar nie] (https://github.com/seanpm2001/Computer-cursor-tech-support)
 
-([af Afrikaans] (/. github / README_AF.md) Afrikaans | [sq Shqiptare] (/. github / README_SQ.md) Albanees | [am አማርኛ] (/. github / README_AM.md) Amharies | [ar عربى] (/.github/README_AR.md) Arabies | [hy հայերեն] (/. github / README_HY.md) Armeens | [az Azərbaycan dili] (/. github / README_AZ.md) Azerbeidjans | [eu Euskara] (/. github /README_EU.md) Baskies | [wees Беларуская] (/. Github / README_BE.md) Belo-Russies | [bn বাংলা] (/. Github / README_BN.md) Bengaals | [bs Bosanski] (/. Github / README_BS.md) Bosnies | [bg български] (/. Github / README_BG.md) Bulgaars | [ca Català] (/. Github / README_CA.md) Katalaans | [ceb Sugbuanon] (/. Github / README_CEB.md) Cebuano | [ny Chichewa ] (/. github / README_NY.md) Chichewa | [zh-CN 简体 中文] (/. github / README_ZH-CN.md) Chinees (Vereenvoudigd) | [zh-t 中國 傳統 的）] (/. github / README_ZH -T.md) Chinees (Tradisioneel) | [co Corsu] (/. Github / README_CO.md) Korsikaans | [hr Hrvatski] (/. Github / README_HR.md) Kroaties | [cs čeština] (/. Github / README_CS .md) Tsjeggies [da dansk] (README_DA.md) Deens | [nl Nederlands] (/. github / README_ NL.md) Nederlands | [** en-us Engels **] (/. github / README.md) Engels | [EO Esperanto] (/. Github / README_EO.md) Esperanto | [et Eestlane] (/. github / README_ET.md) Estnies | [tl Pilipino] (/. github / README_TL.md) Filipino | [fi Suomalainen] (/. github / README_FI.md) Fins | [fr français] (/. github / README_FR.md) Frans | [fy Frysk] (/. github / README_FY.md) Fries | [gl Galego] (/. github / README_GL.md) Galisies | [ka ქართველი] (/. github / README_KA) Georgies | [de Deutsch] (/. github / README_DE.md) Duits | [el Ελληνικά] (/. github / README_EL.md) Grieks | [gu ગુજરાતી] (/. github / README_GU.md) Gujarati | [ht Kreyòl ayisyen] (/. github / README_HT.md) Haïtiaanse Creools | [ha Hausa] (/. github / README_HA.md) Hausa | [haw Ōlelo Hawaiʻi] (/. github / README_HAW.md) Hawaïaans | [he עִברִית] (/. github / README_HE.md) Hebreeus | [hi हिन्दी] (/. github / README_HI.md) Hindi | [hmn Hmong] (/. github / README_HMN.md) Hmong | [hu Magyar] (/. github / README_HU.md) Hongaars | [is Íslenska] (/. github / README_IS.md) Yslands | [ig Igbo] (/. github / README_IG.md) Igbo | [id bahasa Indonesië] (/. github / README_ID.md) Yslands | [ga Gaeilge] (/. github / README_GA.md) Iers | [it Italiana / Italiano] (/. github / README_IT.md) | [ja 日本語] (/. github / README_JA.md) Japannees | [jw Wong jawa] (/. github / README_JW.md) Javaans | [kn ಕನ್ನಡ] (/. github / README_KN.md) Kannada | [kk Қазақ] (/. github / README_KK.md) Kazaks | [km ខ្មែរ] (/. github / README_KM.md) Khmer | [rw Kinyarwanda] (/. github / README_RW.md) Kinyarwanda | [ko-suid 韓國 語] (/. github / README_KO_SOUTH.md) Koreaans (Suid) | [ko-noord 문화어] (README_KO_NORTH.md) Koreaans (Noord) (nog nie vertaal nie) | [ku Kurdî] (/. github / README_KU.md) Koerdies (Kurmanji) | [ky Кыргызча] (/. github / README_KY.md) Kirgisies | [lo ລາວ] (/. github / README_LO.md) Lao | [la Latine] (/. github / README_LA.md) Latyn | [lt Lietuvis] (/. github / README_LT.md) Litaus | [lb Lëtzebuergesch] (/. github / README_LB.md) Luxemburgs | [mk Македонски] (/. github / README_MK.md) Masedonies | [mg Malgassies] (/. github / README_MG.md) Malgassies | [ms Bahasa Melayu] (/. github / README_MS.md) Maleis | [ml മലയാളം] (/. github / README_ML.md) Malabaars | [mt Malti] (/. github / README_MT.md) Maltees | [mi Maori] (/. github / README_MI.md) Maori | [mnr मराठी] (/. github / README_MR.md) Marathi | [mn Монгол] (/. github / README_MN.md) Mongools | [my မြန်မာ] (/. github / README_MY.md) Myanmar (Birmaans) | [ne नेपाली] (/. github / README_NE.md) Nepalees | [no norsk] (/. github / README_NO.md) Noors | [of ଓଡିଆ (ଓଡିଆ)] (/. github / README_OR.md) Odia (Oriya) | [ps پښتو] (/. github / README_PS.md) Pasjto | [fa فارسی] (/. github / README_FA.md) | Persies [pl polski] (/. github / README_PL.md) Pools | [pt português] (/. github / README_PT.md) Portugees | [pa ਪੰਜਾਬੀ] (/. github / README_PA.md) Punjabi | Geen tale beskikbaar wat met die letter Q | begin nie [ro Română] (/. github / README_RO.md) Roemeens | [ru русский] (/. github / README_RU.md) Russies | [sm Faasamoa] (/. github / README_SM.md) Samoaans | [gd Gàidhlig na h-Alba] (/. github / README_GD.md) Skotse Gaelies | [sr Српски] (/. github / README_SR.md) Serwies | [st Sesotho] (/. github / README_ST.md) Sesotho | [sn Shona] (/. github / README_SN.md) Shona | [sd سنڌي] (/. github / README_SD.md) Sindhi | [si සිංහල] (/. github / README_SI.md) Sinhala | [sk Slovák] (/. github / README_SK.md) Slowaaks | [sl Slovenščina] (/. github / README_SL.md) Sloweens | [so Soomaali] (/. github / README_SO.md) Somalies | [[es en español] (/. github / README_ES.md) Spaans | [su Sundanis] (/. github / README_SU.md) Sundanese | [sw Kiswahili] (/. github / README_SW.md) Swahili | [sv Svenska] (/. github / README_SV.md) Sweeds | [tg Тоҷикӣ] (/. github / README_TG.md) Tajik | [ta தமிழ்] (/. github / README_TA.md) Tamil | [tt Татар] (/. github / README_TT.md) Tataars | [te తెలుగు] (/. github / README_TE.md) Telugu | [th ไทย] (/. github / README_TH.md) Thai | [tr Türk] (/. github / README_TR.md) Turks | [tk Türkmenler] (/. github / README_TK.md) Turkmeens | [uk Український] (/. github / README_UK.md) Oekraïens | [ur اردو] (/. github / README_UR.md) Oerdoe | [ug ئۇيغۇر] (/. github / README_UG.md) Uyghur | [uz O'zbek] (/. github / README_UZ.md) Oezbeeks | [vi Tiếng Việt] (/. github / README_VI.md) Viëtnamees | [cy Cymraeg] (/. github / README_CY.md) Wallies | [xh isiXhosa] (/. github / README_XH.md) Xhosa | [yi יידיש] (/. github / README_YI.md) Jiddisj | [yo Yoruba] (/. github / README_YO.md) Yoruba | [zu Zulu] (/. github / README_ZU.md) Zulu) Beskikbaar in 110 tale (108 as Engels en Noord-Koreaans nie getel word nie, aangesien Noord-Koreaans nog nie vertaal is nie [Lees hieroor]] (/ OldVersions / Koreaans (Noord ) /README.md))
+([af Afrikaans] (/. github / README_AF.md) Afrikaans | [sq Shqiptare] (/. github / README_SQ.md) Albanees | [am አማርኛ] (/. github / README_AM.md) Amharies | [ar عربى] (/.github/README_AR.md) Arabies | [hy հայերեն] (/. github / README_HY.md) Armeens | [az Azərbaycan dili] (/. github / README_AZ.md) Azerbeidjans | [eu Euskara] (/. github /README_EU.md) Baskies | [wees Беларуская] (/. Github / README_BE.md) Belo-Russies | [bn বাংলা] (/. Github / README_BN.md) Bengaals | [bs Bosanski] (/. Github / README_BS.md) Bosnies | [bg български] (/. Github / README_BG.md) Bulgaars | [ca Català] (/. Github / README_CA.md) Katalaans | [ceb Sugbuanon] (/. Github / README_CEB.md) Cebuano | [ny Chichewa ] (/. github / README_NY.md) Chichewa | [zh-CN 简体 中文] (/. github / README_ZH-CN.md) Chinees (Vereenvoudigd) | [zh-t 中國 傳統 的）] (/. github / README_ZH -T.md) Chinees (Tradisioneel) | [co Corsu] (/. Github / README_CO.md) Korsikaans | [hr Hrvatski] (/. Github / README_HR.md) Kroaties | [cs čeština] (/. Github / README_CS .md) Tsjeggies | [da dansk] (README_DA.md) Deens | [nl Nederlands] (/. github / README_ NL.md) Nederlands | [** en-us Engels **] (/. github / README.md) Engels | [EO Esperanto] (/. Github / README_EO.md) Esperanto | [et Eestlane] (/. github / README_ET.md) Estnies | [tl Pilipino] (/. github / README_TL.md) Filipino | [fi Suomalainen] (/. github / README_FI.md) Fins | [fr français] (/. github / README_FR.md) Frans | [fy Frysk] (/. github / README_FY.md) Fries | [gl Galego] (/. github / README_GL.md) Galisies | [ka ქართველი] (/. github / README_KA) Georgies | [de Deutsch] (/. github / README_DE.md) Duits | [el Ελληνικά] (/. github / README_EL.md) Grieks | [gu ગુજરાતી] (/. github / README_GU.md) Gujarati | [ht Kreyòl ayisyen] (/. github / README_HT.md) Haïtiaanse Creools | [ha Hausa] (/. github / README_HA.md) Hausa | [haw Ōlelo Hawaiʻi] (/. github / README_HAW.md) Hawaïaans | [he עִברִית] (/. github / README_HE.md) Hebreeus | [hi हिन्दी] (/. github / README_HI.md) Hindi | [hmn Hmong] (/. github / README_HMN.md) Hmong | [hu Magyar] (/. github / README_HU.md) Hongaars | [is Íslenska] (/. github / README_IS.md) Yslands | [ig Igbo] (/. github / README_IG.md) Igbo | [id bahasa Indonesië] (/. github / README_ID.md) Yslands | [ga Gaeilge] (/. github / README_GA.md) Iers | [it Italiana / Italiano] (/. github / README_IT.md) | [ja 日本語] (/. github / README_JA.md) Japannees | [jw Wong jawa] (/. github / README_JW.md) Javaans | [kn ಕನ್ನಡ] (/. github / README_KN.md) Kannada | [kk Қазақ] (/. github / README_KK.md) Kazaks | [km ខ្មែរ] (/. github / README_KM.md) Khmer | [rw Kinyarwanda] (/. github / README_RW.md) Kinyarwanda | [ko-suid 韓國 語] (/. github / README_KO_SOUTH.md) Koreaans (Suid) | [ko-noord 문화어] (README_KO_NORTH.md) Koreaans (Noord) (nog nie vertaal nie) | [ku Kurdî] (/. github / README_KU.md) Koerdies (Kurmanji) | [ky Кыргызча] (/. github / README_KY.md) Kirgisies | [lo ລາວ] (/. github / README_LO.md) Lao | [la Latine] (/. github / README_LA.md) Latyn | [lt Lietuvis] (/. github / README_LT.md) Litaus | [lb Lëtzebuergesch] (/. github / README_LB.md) Luxemburgs | [mk Македонски] (/. github / README_MK.md) Masedonies | [mg Malgassies] (/. github / README_MG.md) Malgassies | [ms Bahasa Melayu] (/. github / README_MS.md) Maleis | [ml മലയാളം] (/. github / README_ML.md) Malabaars | [mt Malti] (/. github / README_MT.md) Maltees | [mi Maori] (/. github / README_MI.md) Maori | [mnr मराठी] (/. github / README_MR.md) Marathi | [mn Монгол] (/. github / README_MN.md) Mongools | [my မြန်မာ] (/. github / README_MY.md) Myanmar (Birmaans) | [ne नेपाली] (/. github / README_NE.md) Nepalees | [no norsk] (/. github / README_NO.md) Noors | [of ଓଡିଆ (ଓଡିଆ)] (/. github / README_OR.md) Odia (Oriya) | [ps پښتو] (/. github / README_PS.md) Pasjto | [fa فارسی] (/. github / README_FA.md) | Persies [pl polski] (/. github / README_PL.md) Pools | [pt português] (/. github / README_PT.md) Portugees | [pa ਪੰਜਾਬੀ] (/. github / README_PA.md) Punjabi | Geen tale beskikbaar wat met die letter Q | begin nie [ro Română] (/. github / README_RO.md) Roemeens | [ru русский] (/. github / README_RU.md) Russies | [sm Faasamoa] (/. github / README_SM.md) Samoaans | [gd Gàidhlig na h-Alba] (/. github / README_GD.md) Skotse Gaelies | [sr Српски] (/. github / README_SR.md) Serwies | [st Sesotho] (/. github / README_ST.md) Sesotho | [sn Shona] (/. github / README_SN.md) Shona | [sd سنڌي] (/. github / README_SD.md) Sindhi | [si සිංහල] (/. github / README_SI.md) Sinhala | [sk Slovák] (/. github / README_SK.md) Slowaaks | [sl Slovenščina] (/. github / README_SL.md) Sloweens | [so Soomaali] (/. github / README_SO.md) Somalies | [[es en español] (/. github / README_ES.md) Spaans | [su Sundanis] (/. github / README_SU.md) Sundanese | [sw Kiswahili] (/. github / README_SW.md) Swahili | [sv Svenska] (/. github / README_SV.md) Sweeds | [tg Тоҷикӣ] (/. github / README_TG.md) Tajik | [ta தமிழ்] (/. github / README_TA.md) Tamil | [tt Татар] (/. github / README_TT.md) Tataars | [te తెలుగు] (/. github / README_TE.md) Telugu | [th ไทย] (/. github / README_TH.md) Thai | [tr Türk] (/. github / README_TR.md) Turks | [tk Türkmenler] (/. github / README_TK.md) Turkmeens | [uk Український] (/. github / README_UK.md) Oekraïens | [ur اردو] (/. github / README_UR.md) Oerdoe | [ug ئۇيغۇر] (/. github / README_UG.md) Uyghur | [uz O'zbek] (/. github / README_UZ.md) Oezbeeks | [vi Tiếng Việt] (/. github / README_VI.md) Viëtnamees | [cy Cymraeg] (/. github / README_CY.md) Wallies | [xh isiXhosa] (/. github / README_XH.md) Xhosa | [yi יידיש] (/. github / README_YI.md) Jiddisj | [yo Yoruba] (/. github / README_YO.md) Yoruba | [zu Zoeloe] (/. github / README_ZU.md) Zoeloe) Beskikbaar in 110 tale (108 as u nie Engels en Noord-Koreaans tel nie, aangesien Noord-Koreaans nog nie vertaal is nie [Lees hieroor]] (/ OldVersions / Koreaans (Noord ) /README.md))
 
 Vertalings in ander tale as Engels word masjienvertaal en is nog nie akkuraat nie. Daar is nog geen foute reggestel vanaf 25 April 2021 nie. Rapporteer asseblief vertaalfoute [hier] (https://github.com/seanpm2001/Computer-cursor-tech-support/issues/) en maak seker dat u u regstelling met bronne en lei my, aangesien ek nie ander tale as Engels ken nie (ek is van plan om uiteindelik 'n vertaler te kry), noem asseblief [wiktionary] (https://en.wiktionary.org) en ander bronne in u verslag. As u dit nie doen nie, sal die regstelling van die hand gewys word.
 
@@ -187,9 +187,9 @@ U sal waarskynlik die 'tab' en 'enter'-sleutels baie gereeld gebruik (oortjie sk
 
 ***
 
-# Die oplossing van u Windows 10-muiswyserprobleme
+## Die oplossing van u Windows 10-muiswyserprobleme
 
-[Sien Windows 10-hulp] (/ Windows / Windows 10 /)
+[Sien Windows 10-hulp] (/ Windows / Windows 10 /) - Skakel is tans verbreek
 
 Hierdie gids bevat dokumentasie en skrifte om u te help om u bevrore muiswyser (muiswyser of net wyser) op Windows 10 op te los.
 
@@ -197,7 +197,7 @@ Opmerking: hierdie gids is onvolledig. Dit is 'n sterk gewysigde weergawe van di
 
 ## Basiese probleemoplossing
 
-As dit eenmalig is, kan u programme met 'alt' + 'f4' sluit en u lêers met 'CTRL' + `s 'stoor (om snitlyste in VLC Media Player op te slaan, is die kortpad' CTRL '+ 'Y`) soms kan die probleem vanself oplos nadat 'n paar programme gesluit is. Hou nie toe totdat u op die lessenaar kom en kyk of dit reageer nie. Indien nie, probeer die truuks hieronder of herlaai u stelsel deur op 'ALT' + 'F4' op die lessenaar te druk, en druk dan op 'TAB' om die aftreklys te kies en gebruik die op- en af-pyltjies totdat u 'weer begin en update 'of' update en shutdown '(as u nog nie u' daaglikse 'gedwonge Windows 10-opdatering gereed het nie, kyk net na' restart 'of' shutdown '
+As dit eenmalig is, kan u programme met 'alt' + 'f4' sluit en u lêers met 'CTRL' + `s 'stoor (om snitlyste in VLC Media Player op te slaan, is die kortpad' CTRL '+ 'Y`) soms kan die probleem vanself oplos nadat 'n paar programme gesluit is. Hou nie toe totdat u op die lessenaar kom en kyk of dit reageer nie. As dit nie die geval is nie, probeer die onderstaande truuks of herlaai u stelsel deur op 'ALT' + 'F4' op die lessenaar te druk, en druk dan op 'TAB' om die aftreklys te kies en gebruik die op- en af-pyltjie-knoppies totdat u 'weer begin' kom. of 'shutdown' (tensy daar 'n opdatering beskikbaar is, wil u dit dalk doen of nie)
 
 ** U moet u stelsel NIE afskakel deur die aan / uit-knoppie ingedrukt te hou nie, tensy die sleutelbord ook nie reageer nie. so dit sal nie werk nie.
 
@@ -242,7 +242,7 @@ Bron: [none] (https://www.example.com)
 
 ## As alles anders misluk
 
-As alles anders misluk, is 'n herlaai nodig. As dit nie werk nie, of as u nie weer wil begin nie, moet u altyd onthou dat u u rekenaar sonder 'n muis kan gebruik. As u 'n aanraakskerm het, kan u dit gebruik om die muis te vervang, maar u moet waarskynlik probeer om te leer hoe u u gebruikrekenaar sonder u muis en sonder aanraakinvoer.
+As alles anders misluk, is 'n herlaai nodig. As dit nie werk nie, of as u nie weer wil begin nie, moet u altyd onthou dat u u rekenaar sonder 'n muis kan gebruik. As u 'n aanraakskerm het, kan u dit gebruik om die muis te vervang, maar u moet waarskynlik probeer om te leer hoe u u rekenaar metu muis uit en sonder aanraakinvoer.
 
 Druk '[::] Windows` + `R` om 'n terminaal te open
 
@@ -253,6 +253,32 @@ Om inligting in 'n webblaaier in te dien, tik 'ctrl' + 'enter'
 Druk `alt` +` f4` om 'n venster te sluit
 
 U sal waarskynlik die 'tab' en 'enter'-sleutels baie gereeld gebruik (oortjie skakel oor na die volgende beskikbare knoppie / element)
+
+***
+
+<! - Lêerinligting vir WIN10CUR_HELP_README.md
+
+Lêerweergawe: '2 (Sondag 25 April 2021 om 21:01 uur)'
+
+Lêerstipe: 'Markdown document (* .md)'
+
+Reëntelling (leë reëls en samestellerreël ingesluit): `94`
+
+Veranderings in weergawe 1:
+
+Het die lêer begin
+
+Ander inligting
+
+Veranderings in weergawe 2:
+
+Die lêerinligting is opgedateer
+
+Die lêergeskiedenis is opgedateer
+
+'N Grappie oor gedwonge opdaterings wat in slegte smaak gedoen is, verwyder en verander
+
+! ->
 
 ***
 
@@ -322,6 +348,18 @@ U sal waarskynlik die 'tab' en 'enter'-sleutels baie gereeld gebruik (oortjie sk
 
 ***
 
+# Ekstreme oplossings vir wyserprobleme
+
+Het al die ander misluk? Wil u net 'n ekstreme oplossing probeer? Hier is 'n paar wat te ekstrem was om op die hooflys te noem:
+
+* Moet nooit u battery onder 'x' persent laat sak nie (20-31% word aanbeveel as 'x')
+
+* Laat u battery nooit 'y' persent bereik nie (91-100% word aanbeveel as 'y')
+
+Dit is al die uiterste oplossings wat vir my gewerk het. [Beveel meer hier aan] (https://github.com/seanpm2001/Computer-cursor-tech-support/Discussions)
+
+***
+
 ## Wiki
 
 [Klik / tik hier om hierdie Wiki-projekte te sien] (https://github.com/seanpm2001/Computer-cursor-tech-support/wiki)
@@ -336,7 +374,7 @@ As die projek voorgehou is, is die Wiki waarskynlik verwyder. Gelukkig bevat ek 
 
 U kan hierdie projek borg as u wil, maar spesifiseer asseblief waaraan u wil skenk. [Sien die fondse waaraan u hier kan skenk] (https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
 
-U kan ander borginligting [hier] sien (https://github.com/seanpm2001/Sponsor-info/)
+U kan ander borginligting hier sien (https://github.com/seanpm2001/Sponsor-info/)
 
 Probeer dit! Die borgknoppie is reg langs die horlosie / oopknop-knoppie.
 
@@ -354,7 +392,7 @@ Probeer dit! Die borgknoppie is reg langs die horlosie / oopknop-knoppie.
 
 Al my werke is gratis, sommige beperkings. DRM (** D ** igital ** R ** estrictions ** M ** anagement) is in geen van my werke aanwesig nie.
 
-! [DRM-vry_label.en.svg] (DRM-vry_label.en.svg)
+! [DRM-free_label.en.svg] (DRM-free_label.en.svg)
 
 Hierdie plakker word ondersteun deur die Free Software Foundation. Ek is nooit van plan om DRM by my werke in te sluit nie.
 
@@ -362,7 +400,7 @@ Ek gebruik die afkorting "Digital Restrictions Management" in plaas van die meer
 
 Hierdie afdeling word gebruik om bewustheid te verhoog vir die probleme met DRM, en ook om dit te betoog. DRM is gebrekkig van ontwerp en is 'n groot bedreiging vir alle rekenaargebruikers en sagteware-vryheid.
 
-Beeldkrediet: [defectivebydesign.org/drm-free/... ](https://www.defectivebydesign.org/drm-free/hoe-om-te gebruik-etiket)
+Beeldkrediet: [defectivebydesign.org/drm-free/... ](https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
 ***
 
@@ -370,7 +408,7 @@ Beeldkrediet: [defectivebydesign.org/drm-free/... ](https://www.defectivebydesig
 
 Tans is ek die enigste bydraer. Bydrae is toegelaat, solank u die reëls van die lêer [CONTRIBUTING.md] (CONTRIBUTING.md) volg.
 
-> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 27 verbintenisse (vanaf Sondag 25 April 2021 om 18:17)
+> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 97 verbintenisse (vanaf Dinsdag 27 April 2021 om 16:19)
 
 > * 2. Geen ander bydraers nie.
 
@@ -462,9 +500,9 @@ Bydrae is toegelaat vir hierdie projek, solank u die reëls van die lêer `CONTR
 
 Lêerstipe: 'Markdown (* .md)'
 
-Lêerweergawe: '1 (Sondag 25 April 2021 om 18:17 uur)'
+Lêerweergawe: '2 (Dinsdag 27 April 2021 om 16:19 uur)'
 
-Reël tel: `0,543`
+Reëltelling: `0,603`
 
 ***
 
@@ -522,13 +560,35 @@ Weergawe 1 (Sondag 25 April 2021 om 18:17)
 
 > * Geen ander veranderinge in weergawe 1 nie
 
-Weergawe 2 (binnekort beskikbaar)
+Weergawe 2 (Dinsdag 27 April 2021 om 16:19 uur)
+
+> Wysigings:
+
+> * Het die Windows-afdeling opgedateer, 'n onprofessionele grap verwyder
+
+> * Het die afdeling vir ekstreme oplossings bygevoeg
+
+> * Het die lêerinligting-afdeling opgedateer
+
+> * Die afdeling vir lêergeskiedenis is opgedateer
+
+> * Geen ander veranderinge in weergawe 2 nie
+
+Weergawe 3 (binnekort beskikbaar)
 
 > Wysigings:
 
 > * Binnekort beskikbaar
 
-> * Geen ander veranderinge in weergawe 2 nie
+> * Geen ander veranderinge in weergawe 3 nie
+
+Weergawe 4 (binnekort beskikbaar)
+
+> Wysigings:
+
+> * Binnekort beskikbaar
+
+> * Geen ander veranderinge in weergawe 4 nie
 
 ***
 
