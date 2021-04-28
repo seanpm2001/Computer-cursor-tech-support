@@ -32,7 +32,7 @@ _🌐 Liste der Sprachen_
 
 Hinweis: Aufgrund von Einschränkungen bei der Interpretation von Markdown durch GitHub (und so ziemlich jeder anderen webbasierten Interpretation von Markdown) werden Sie durch Klicken auf diese Links zu einer separaten Datei auf einer separaten Seite weitergeleitet, die nicht meine GitHub-Profilseite ist. Sie werden zum [seanpm2001 / seanpm2001-Repository] (https://github.com/seanpm2001/seanpm2001) weitergeleitet, in dem die README gehostet wird.
 
-Übersetzungen werden mit Google Translate durchgeführt, da die Sprachen, die ich in anderen Übersetzungsdiensten wie DeepL und Bing Translate benötige, nur eingeschränkt oder gar nicht unterstützt werden. Ich arbeite daran, eine Alternative zu finden. Aus irgendeinem Grund ist die Formatierung (Links, Teiler, Fettdruck, Kursivschrift usw.) in verschiedenen Übersetzungen durcheinander. Die Behebung ist mühsam, und ich weiß nicht, wie diese Probleme in Sprachen mit nicht-lateinischen Zeichen behoben werden können. Bei der Behebung dieser Probleme ist zusätzliche Hilfe von rechts nach links (wie Arabisch) erforderlich
+Übersetzungen werden mit Google Translate durchgeführt, da die Sprachen, die ich in anderen Übersetzungsdiensten wie DeepL und Bing Translate benötige, nur eingeschränkt oder gar nicht unterstützt werden. Ich arbeite daran, eine Alternative zu finden. Aus irgendeinem Grund ist die Formatierung (Links, Teiler, Fettdruck, Kursivschrift usw.) in verschiedenen Übersetzungen durcheinander. Die Behebung ist mühsam, und ich weiß nicht, wie diese Probleme in Sprachen mit nicht lateinischen Zeichen behoben werden können. Bei der Behebung dieser Probleme ist zusätzliche Hilfe von rechts nach links (wie Arabisch) erforderlich
 
 Aufgrund von Wartungsproblemen sind viele Übersetzungen veraltet und verwenden eine veraltete Version dieser README-Artikeldatei. Ein Übersetzer wird benötigt. Ab dem 25. April 2021 werde ich eine Weile brauchen, um alle neuen Links zum Laufen zu bringen.
 
@@ -187,9 +187,9 @@ Sie werden wahrscheinlich sehr häufig die Tasten "Tab" und "Enter" verwenden (T
 
 ***.
 
-# Lösen Sie Ihre Windows 10-Mauszeigerprobleme
+## Lösen Sie Ihre Windows 10-Mauszeigerprobleme
 
-[Siehe Windows 10-Hilfe] (/ Windows / Windows 10 /)
+[Siehe Windows 10-Hilfe] (/ Windows / Windows 10 /) - Die Verbindung ist derzeit unterbrochen
 
 Dieses Verzeichnis enthält Dokumentation und Skripte, mit denen Sie versuchen können, Ihren eingefrorenen / fehlerhaften Mauszeiger (Mauszeiger oder nur Cursor) unter Windows 10 zu beheben
 
@@ -197,7 +197,7 @@ Hinweis: Diese Anleitung ist unvollständig. Dies ist eine stark modifizierte Ve
 
 ## Grundlegende Fehlerbehebung
 
-Wenn es sich um eine einmalige Sache handelt, können Sie Programme mit "alt" + "f4" schließen und Ihre Dateien mit "STRG" + "s" speichern (um Wiedergabelisten im VLC Media Player zu speichern, lautet die Verknüpfung "STRG" +) `Y`) Manchmal kann das Problem von selbst behoben werden, nachdem einige Programme geschlossen wurden. Wenn nicht, schließen Sie weiter, bis Sie zum Desktop gelangen und prüfen, ob er reagiert. Wenn nicht, probieren Sie die folgenden Tricks aus oder starten Sie Ihr System neu, indem Sie auf dem Desktop "ALT" + "F4" drücken. Drücken Sie dann "TAB", um die Dropdown-Liste auszuwählen, und verwenden Sie die Aufwärts- und Abwärtspfeiltasten, bis Sie "Neustart und" starten update` oder `update and shutdown` (wenn Sie Ihr" tägliches "erzwungenes Windows 10-Update noch nicht fertig haben, suchen Sie einfach nach" restart "oder" shutdown "
+Wenn es sich um eine einmalige Sache handelt, können Sie Programme mit "alt" + "f4" schließen und Ihre Dateien mit "STRG" + "s" speichern (um Wiedergabelisten im VLC Media Player zu speichern, lautet die Verknüpfung "STRG" +) `Y`) Manchmal kann das Problem von selbst behoben werden, nachdem einige Programme geschlossen wurden. Wenn nicht, schließen Sie weiter, bis Sie zum Desktop gelangen und prüfen, ob er reagiert. Wenn nicht, probieren Sie die folgenden Tricks aus oder starten Sie Ihr System neu, indem Sie auf dem Desktop "ALT" + "F4" drücken. Drücken Sie dann "TAB", um die Dropdown-Liste auszuwählen, und verwenden Sie die Aufwärts- und Abwärtspfeiltasten, bis Sie zum "Neustart" gelangen oder `shutdown` (es sei denn, es ist ein Update verfügbar, dann möchten oder möchten Sie es möglicherweise nicht)
 
 ** Sie sollten Ihr System NICHT ausschalten, indem Sie den Netzschalter gedrückt halten. ** Wenn die Tastatur nicht ebenfalls reagiert, sollte dies ein letzter Ausweg sein. Durch Drücken des Netzschalters wird der Computer in den Ruhemodus versetzt (mit Standardeinstellungen). Das wird also nicht funktionieren.
 
@@ -242,7 +242,7 @@ Quelle: [keine] (https://www.example.com)
 
 ## Wenn alle Stricke reißen
 
-Wenn alles andere fehlschlägt, ist möglicherweise ein Neustart erforderlich. Wenn dies nicht funktioniert oder Sie nicht neu starten möchten / können, denken Sie immer daran, dass Sie Ihren Computer ohne Maus verwenden können. Wenn Sie einen Touchscreen haben, können Sie diesen verwenden, um die Maus zu ersetzen, aber Sie sollten wahrscheinlich versuchen, den Umgang mit Ihrem zu lernenComputer ohne Maus und ohne Berührungseingabe.
+Wenn alles andere fehlschlägt, ist möglicherweise ein Neustart erforderlich. Wenn dies nicht funktioniert oder Sie nicht neu starten möchten / können, denken Sie immer daran, dass Sie Ihren Computer ohne Maus verwenden können. Wenn Sie einen Touchscreen haben, können Sie diesen verwenden, um die Maus zu ersetzen. Sie sollten jedoch wahrscheinlich versuchen, den Umgang mit Ihrem Computer zu erlernenmit der Maus und ohne Berührungseingabe.
 
 Um ein Terminal zu öffnen, drücken Sie `[::] Windows` +` R`
 
@@ -253,6 +253,32 @@ Um Informationen in einem Webbrowser zu senden, geben Sie "Strg" + "Eingabe" ein
 Um ein Fenster zu schließen, drücken Sie `alt` +` f4`
 
 Sie werden wahrscheinlich sehr häufig die Tasten "Tab" und "Enter" verwenden (Tab wechselt zur nächsten verfügbaren Schaltfläche / zum nächsten verfügbaren Element).
+
+***.
+
+<! - Dateiinfo für WIN10CUR_HELP_README.md
+
+Dateiversion: `2 (Sonntag, 25. April 2021 um 9:01 Uhr)`
+
+Dateityp: `Markdown-Dokument (* .md)`
+
+Zeilenanzahl (einschließlich Leerzeilen und Compilerzeile): `94`
+
+Änderungen in Version 1:
+
+Startete die Datei
+
+Andere Information
+
+Änderungen in Version 2:
+
+Die Dateiinformationen wurden aktualisiert
+
+Der Dateiversionsverlauf wurde aktualisiert
+
+Ein Witz über erzwungene Updates, der geschmacklos durchgeführt wurde, wurde entfernt und geändert
+
+! ->
 
 ***.
 
@@ -322,6 +348,18 @@ Sie werden wahrscheinlich sehr häufig die Tasten "Tab" und "Enter" verwenden (T
 
 ***.
 
+# Extreme Lösungen für Cursorprobleme
+
+Ist alles andere gescheitert? Möchten Sie nur eine extreme Lösung ausprobieren? Hier sind einige, die zu extrem waren, um sie auf der Hauptliste zu erwähnen:
+
+* Lassen Sie Ihren Akku niemals unter "x" Prozent fallen (20-31% empfohlen als "x").
+
+* Lassen Sie Ihren Akku niemals "y" Prozent erreichen (91-100% empfohlen als "y")
+
+Das sind all die extremen Lösungen, die für mich funktioniert haben. [Mehr hier empfehlen] (https://github.com/seanpm2001/Computer-cursor-tech-support/Discussions)
+
+***.
+
 ## Wiki
 
 [Klicken / tippen Sie hier, um das Projekt-Wiki anzuzeigen] (https://github.com/seanpm2001/Computer-cursor-tech-support/wiki)
@@ -346,7 +384,7 @@ Versuch es! Der Sponsor-Button befindet sich direkt neben dem Watch / Unwatch-Bu
 
 ** Versionsverlauf derzeit nicht verfügbar **
 
-** Keine anderen Versionen aufgelistet **
+** Keine anderen Versionen aufgeführt **
 
 ***.
 
@@ -362,7 +400,7 @@ Ich verwende die Abkürzung "Digital Restrictions Management" anstelle des bekan
 
 Dieser Abschnitt dient dazu, das Bewusstsein für die Probleme mit DRM zu schärfen und dagegen zu protestieren. DRM ist von Natur aus fehlerhaft und stellt eine große Bedrohung für alle Computerbenutzer und die Softwarefreiheit dar.
 
-Bildnachweis: [defectivebydesign.org/drm-free/...‹(https://www.defectivebydesign.org/drm-free/Gebrauchsanweisung)
+Bildnachweis: [defectivebydesign.org/drm-free/... lightboxes(https://www.defectivebydesign.org/drm-free/how-to-use-label]
 
 ***.
 
@@ -370,7 +408,7 @@ Bildnachweis: [defectivebydesign.org/drm-free/...‹(https://www.defectivebydesi
 
 Derzeit bin ich der einzige Mitwirkende. Beiträge sind zulässig, solange Sie die Regeln der Datei [CONTRIBUTING.md] (CONTRIBUTING.md) befolgen.
 
-> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 27 Commits (Stand Sonntag, 25. April 2021, 18:17 Uhr)
+> * 1. [seanpm2001] (https://github.com/seanpm2001/) - 97 Commits (Stand Dienstag, 27. April 2021, 16:19 Uhr)
 
 > * 2. Keine anderen Mitwirkenden.
 
@@ -462,9 +500,9 @@ Beiträge sind für dieses Projekt zulässig, solange Sie die Regeln der Datei `
 
 Dateityp: `Markdown (* .md)`
 
-Dateiversion: `1 (Sonntag, 25. April 2021 um 18:17 Uhr)`
+Dateiversion: `2 (Dienstag, 27. April 2021 um 16:19 Uhr)`
 
-Zeilenanzahl: `0,543`
+Zeilenanzahl: `0,603`
 
 ***.
 
@@ -522,13 +560,35 @@ Version 1 (Sonntag, 25. April 2021 um 18:17 Uhr)
 
 > * Keine weiteren Änderungen in Version 1
 
-Version 2 (in Kürze erhältlich)
+Version 2 (Dienstag, 27. April 2021 um 16:19 Uhr)
+
+> Änderungen:
+
+> * Der Windows-Bereich wurde aktualisiert und ein unprofessioneller Witz entfernt
+
+> * Der Abschnitt für extreme Lösungen wurde hinzugefügt
+
+> * Der Abschnitt mit den Dateiinformationen wurde aktualisiert
+
+> * Der Abschnitt zum Dateiversionsverlauf wurde aktualisiert
+
+> * Keine weiteren Änderungen in Version 2
+
+Version 3 (in Kürze erhältlich)
 
 > Änderungen:
 
 > * Bald erhältlich
 
-> * Keine weiteren Änderungen in Version 2
+> * Keine weiteren Änderungen in Version 3
+
+Version 4 (in Kürze erhältlich)
+
+> Änderungen:
+
+> * Bald erhältlich
+
+> * Keine weiteren Änderungen in Version 4
 
 ***.
 
